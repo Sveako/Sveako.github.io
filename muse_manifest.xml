@@ -1,0 +1,54 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506333511192">
+  <folder name="css">
+    <file name="site_global.css" crc="4216778217"/>
+    <file name="master_a-mallsida.css" crc="74138092" ref="index:portfolio:contact:photograpy"/>
+    <file name="index.css" crc="3797976767" ref="index"/>
+    <file name="portfolio.css" crc="4174348147" ref="portfolio"/>
+    <file name="contact.css" crc="400447139" ref="contact"/>
+    <file name="photograpy.css" crc="400447139" ref="photograpy"/>
+  </folder>
+  <folder name="assets">
+    <file name="david-knutsson-interaction-designer_eng.pdf" crc="178524523" seo="true" mt="1505727616000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:portfolio:photograpy"/>
+    <file name="museutils.js" crc="17924269" ref="index:contact:portfolio:photograpy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:portfolio:photograpy"/>
+    <file name="museconfig.js" crc="278381782" ref="index:contact:portfolio:photograpy"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:contact:portfolio:photograpy"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:contact:portfolio:photograpy"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:portfolio:photograpy"/>
+    <file name="require.js" crc="3861931657" ref="index:contact:portfolio:photograpy"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:contact:portfolio:photograpy"/>
+    <file name="u169.png" crc="3967297503" ref="index:contact:portfolio:photograpy"/>
+    <file name="u169-a.png" crc="4047204708" ref="index:contact:portfolio:photograpy"/>
+    <file name="u263.png" crc="3959454846" ref="index:contact:portfolio:photograpy"/>
+    <file name="u263-a.png" crc="518691692" ref="index:contact:portfolio:photograpy"/>
+    <file name="u286.png" crc="92734258" ref="index:contact:portfolio:photograpy"/>
+    <file name="u286-a.png" crc="362015773" ref="index:contact:portfolio:photograpy"/>
+    <file name="u307.png" crc="3941222689" ref="index:contact:portfolio:photograpy"/>
+    <file name="u307-a.png" crc="4099718343" ref="index:contact:portfolio:photograpy"/>
+    <file name="u256-10.png" crc="4188429493" ref="index"/>
+    <file name="895-crop-u152.jpg" crc="3809763" seo="true" ref="index:contact:portfolio:photograpy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="photograpy" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donera.png" crc="4082040494" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="försvarsutbildarna.png" crc="509159072" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="funktionen.jpg" crc="4279310815" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4289391994" seo="true" mt="1506332671509" redirect="true"/>
+  <file name="contact.html" crc="3769093691" seo="true" mt="1506330919431" redirect="true"/>
+  <file name="portfolio.html" crc="309189587" seo="true" mt="1506333104838" redirect="true"/>
+  <file name="photograpy.html" crc="3890788993" seo="true" mt="1506330919431" redirect="true"/>
+</manifest>
