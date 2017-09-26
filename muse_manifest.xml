@@ -1,60 +1,99 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506421444091">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506425945045">
   <folder name="css">
     <file name="site_global.css" crc="125443429"/>
-    <file name="master_a-mallsida.css" crc="4249045611" ref="index:portfolio:contact:photograpy"/>
-    <file name="nomq_preview_master_a-mallsida.css" crc="3824530138" ref="index:portfolio:contact:photograpy"/>
-    <file name="index.css" crc="4004661733" ref="index"/>
-    <file name="nomq_index.css" crc="4255542861" ref="index"/>
-    <file name="portfolio.css" crc="513650251" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="4124762227" ref="portfolio"/>
-    <file name="contact.css" crc="381544608" ref="contact"/>
-    <file name="photograpy.css" crc="421352896" ref="photograpy"/>
+    <file name="master_a-mallsida.css" crc="4264387097" ref="index:portfolio:contact:photography"/>
+    <file name="nomq_preview_master_a-mallsida.css" crc="3824530138" ref="index:portfolio:contact:photography"/>
+    <file name="index.css" crc="232921139" ref="index"/>
+    <file name="nomq_index.css" crc="382694988" ref="index"/>
+    <file name="portfolio.css" crc="485759979" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="135107552" ref="portfolio"/>
+    <file name="contact.css" crc="4153264508" ref="contact"/>
+    <file name="photography.css" crc="4227087716" ref="photography"/>
   </folder>
   <folder name="assets">
     <file name="david-knutsson-interaction-designer_eng.pdf" crc="178524523" seo="true" mt="1505727616000"/>
     <file name="dakirby309-simply-styled-youtube.ico" crc="4088808228" seo="true" mt="1506363680000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:contact:portfolio:photograpy"/>
-    <file name="museutils.js" crc="17924269" ref="phone>index:index:contact:portfolio:photograpy"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index:contact:portfolio:photograpy"/>
-    <file name="museconfig.js" crc="278381782" ref="phone>index:index:contact:portfolio:photograpy"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="phone>index:index:contact:portfolio:photograpy"/>
-    <file name="require.js" crc="3861931657" ref="phone>index:index:contact:portfolio:photograpy"/>
-    <file name="jquery.musemenu.js" crc="4286030528" ref="index:contact:portfolio:photograpy"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:contact:portfolio:photograpy"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:portfolio:photography"/>
+    <file name="museutils.js" crc="17924269" ref="index:contact:portfolio:photography"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:portfolio:photography"/>
+    <file name="museconfig.js" crc="278381782" ref="index:contact:portfolio:photography"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:contact:portfolio:photography"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:contact:portfolio:photography"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:portfolio:photography"/>
     <file name="jquery.museresponsive.js" crc="4267800278" ref="index:portfolio"/>
-    <file name="webpro.js" crc="416662029" ref="portfolio"/>
-    <file name="musewpslideshow.js" crc="4034900702" ref="portfolio"/>
-    <file name="jquery.museoverlay.js" crc="528673841" ref="portfolio"/>
-    <file name="touchswipe.js" crc="432264157" ref="portfolio"/>
+    <file name="require.js" crc="3861931657" ref="index:contact:portfolio:photography"/>
+    <file name="webpro.js" crc="416662029" ref="portfolio:photography"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="portfolio:photography"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="portfolio:photography"/>
+    <file name="touchswipe.js" crc="432264157" ref="portfolio:photography"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="photography"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:contact:portfolio:photograpy"/>
-    <file name="u169.png" crc="4223146803" ref="index:contact:portfolio:photograpy"/>
-    <file name="u169-a.png" crc="16644714" ref="index:contact:portfolio:photograpy"/>
-    <file name="u263.png" crc="3959454846" ref="index:contact:portfolio:photograpy"/>
-    <file name="u263-a.png" crc="518691692" ref="index:contact:portfolio:photograpy"/>
-    <file name="u286.png" crc="92734258" ref="index:contact:portfolio:photograpy"/>
-    <file name="u286-a.png" crc="362015773" ref="index:contact:portfolio:photograpy"/>
-    <file name="u307.png" crc="3941222689" ref="index:contact:portfolio:photograpy"/>
-    <file name="u307-a.png" crc="4099718343" ref="index:contact:portfolio:photograpy"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contact:portfolio:photography"/>
+    <file name="u169.png" crc="4223146803" ref="index:contact:portfolio:photography"/>
+    <file name="u169-a.png" crc="16644714" ref="index:contact:portfolio:photography"/>
+    <file name="u263.png" crc="3959454846" ref="index:contact:portfolio:photography"/>
+    <file name="u263-a.png" crc="518691692" ref="index:contact:portfolio:photography"/>
+    <file name="u286.png" crc="88374184" ref="index:contact:portfolio:photography"/>
+    <file name="u286-a.png" crc="4084969434" ref="index:contact:portfolio:photography"/>
+    <file name="u307.png" crc="3941222689" ref="index:contact:portfolio:photography"/>
+    <file name="u307-a.png" crc="4099718343" ref="index:contact:portfolio:photography"/>
+    <file name="110742_youtube_512x512.png" crc="4155085510" seo="true" ref="index:contact:portfolio:photography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="pil.png" crc="240818921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u256-10.png" crc="4126098125" ref="index"/>
     <file name="namnlöst-1.png" crc="3880257870" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="895-crop-u152.jpg" crc="323998129" seo="true" ref="index:contact:portfolio">
+    <file name="895-crop-u152.jpg" crc="3953213991" seo="true" ref="index:contact:portfolio">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="u256-102.png" crc="277436152" ref="index"/>
+    <file name="github-512.png" crc="4253650748" seo="true" ref="index:contact:portfolio:photography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="linkedin_circle_color-512.png" crc="3878298965" seo="true" ref="index:contact:portfolio:photography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="u256-102.png" crc="318652549" ref="index"/>
     <file name="u256-103.png" crc="243007756" ref="index"/>
     <file name="donera-crop-u9003.png" crc="112250007" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -72,7 +111,7 @@
     <file name="donera-crop-u9023.png" crc="436382373" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="rjgfpahgi9afegiarjgherajhgåaj0haj-crop-u9021.png" crc="198181938" seo="true" ref="portfolio">
+    <file name="rjgfpahgi9afegiarjgherajhgåaj0haj-crop-u9021.png" crc="207804856" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="bank_id-crop-u9019.jpg" crc="3866627989" seo="true" ref="portfolio">
@@ -81,7 +120,7 @@
     <file name="donerat-crop-u9025.jpg" crc="92822316" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="loading.gif" crc="3815509949" ref="portfolio:photography"/>
     <file name="försvarsutbildarna.png" crc="4203811669" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -111,6 +150,12 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="trsjnz.jpg" crc="296123766" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mad- design ab-crop-u16303.png" crc="4072708987" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kopia av rolll-crop-u16463.png" crc="3880978755" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="donera.png" crc="3759682245" seo="true" ref="portfolio">
@@ -149,10 +194,16 @@
     <file name="trsjnz-crop-u13257.jpg" crc="462040243" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
+    <file name="mad- design ab-crop-u163032.png" crc="3865357078" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kopia av rolll-crop-u164632.png" crc="23716028" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
     <file name="donera-crop-u90032.png" crc="150274126" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="rjgfpahgi9afegiarjgherajhgåaj0haj-crop-u9001.png" crc="4415608" seo="true" ref="portfolio">
+    <file name="rjgfpahgi9afegiarjgherajhgåaj0haj-crop-u9001.png" crc="4145636834" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="bank_id-crop-u90052.jpg" crc="102192841" seo="true" ref="portfolio">
@@ -200,19 +251,48 @@
     <file name="trsjnz-crop-u132572.jpg" crc="319845219" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="895.jpg" crc="397408585" seo="true" ref="photograpy">
-      <caption webpage="photograpy" alt=""/>
+    <file name="mad- design ab-crop-u163033.png" crc="3800777757" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kopia av rolll-crop-u164633.png" crc="266727520" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_2745.jpg" crc="3960997332" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="spac2.png" crc="453771256" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="space 1.png" crc="3810305695" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="space3.png" crc="4060554417" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_2068.jpg" crc="476157213" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_2072.jpg" crc="282739710" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_2074.jpg" crc="4032584924" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_2940.png" crc="35149677" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_2942.png" crc="4044251854" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_2946.png" crc="42481975" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="895.jpg" crc="397408585" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
     </file>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="62426684" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="3944235326" seo="true" mt="1506421336565" redirect="false"/>
-  </folder>
-  <file name="index.html" crc="4053240428" seo="true" mt="1506421336700" redirect="true"/>
-  <file name="contact.html" crc="214898726" seo="true" mt="1506421311667" redirect="true"/>
-  <file name="portfolio.html" crc="4112961004" seo="true" mt="1506421311667" redirect="true"/>
-  <file name="photograpy.html" crc="4272290063" seo="true" mt="1506421311667" redirect="true"/>
+  <file name="index.html" crc="151004542" seo="true" mt="1506425796467" redirect="true"/>
+  <file name="contact.html" crc="4241363325" seo="true" mt="1506425121890" redirect="true"/>
+  <file name="portfolio.html" crc="371176623" seo="true" mt="1506425121890" redirect="true"/>
+  <file name="photography.html" crc="3811803549" seo="true" mt="1506425121891" redirect="true"/>
 </manifest>
