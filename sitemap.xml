@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://sveako.se/index.html</loc>
-    <lastmod>2017-09-25</lastmod>
+    <lastmod>2017-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sveako.se/images/namnl%C3%B6st-1.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://sveako.se/images/895-crop-u152.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://sveako.se/contact.html</loc>
-    <lastmod>2017-09-25</lastmod>
+    <lastmod>2017-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -20,14 +23,35 @@
   </url>
   <url>
     <loc>http://sveako.se/portfolio.html</loc>
-    <lastmod>2017-09-25</lastmod>
+    <lastmod>2017-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://sveako.se/images/895-crop-u152.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sveako.se/images/donera.png</image:loc>
+      <image:loc>http://sveako.se/images/donera-crop-u9003.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/rjgfpahgi9afegiarjgherajhg%C3%A5aj0haj.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/bank_id202x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/donerat208x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/donera-crop-u9023.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/rjgfpahgi9afegiarjgherajhg%C3%A5aj0haj-crop-u9021.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/bank_id-crop-u9019.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/donerat-crop-u9025.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://sveako.se/images/f%C3%B6rsvarsutbildarna.png</image:loc>
@@ -35,19 +59,133 @@
     <image:image>
       <image:loc>http://sveako.se/images/funktionen.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/mobile2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/hi-fi_startscreen.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/dfasdgasdg-crop-u12940.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/rum_edit-crop-u13131.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/ruum-crop-u13173.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/sdfgvag-crop-u13215.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/trsjnz.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/donera.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/bank_id-crop-u9005.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/donerat-crop-u8999.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/donera-crop-u90232.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/rjgfpahgi9afegiarjgherajhg%C3%A5aj0haj-crop-u90212.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/bank_id-crop-u90192.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/donerat-crop-u90252.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/dfasdgasdg-crop-u129402.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/rum_edit-crop-u131312.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/ruum-crop-u131732.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/sdfgvag-crop-u132152.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/trsjnz-crop-u13257.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/donera-crop-u90032.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/rjgfpahgi9afegiarjgherajhg%C3%A5aj0haj-crop-u9001.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/bank_id-crop-u90052.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/donerat-crop-u89992.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/donera-crop-u90233.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/rjgfpahgi9afegiarjgherajhg%C3%A5aj0haj-crop-u90213.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/bank_id-crop-u90193.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/donerat-crop-u90253.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/f%C3%B6rsvarsutbildarna-crop-u8993.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/funktionen457x244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/mobile2446x239.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/hi-fi_startscreen461x280.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/dfasdgasdg-crop-u129403.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/rum_edit-crop-u131313.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/ruum-crop-u131733.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/sdfgvag-crop-u132153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/trsjnz-crop-u132572.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://sveako.se/photograpy.html</loc>
-    <lastmod>2017-09-25</lastmod>
+    <lastmod>2017-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sveako.se/images/895-crop-u152.jpg</image:loc>
+      <image:loc>http://sveako.se/images/895.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://sveako.se/assets/david-knutsson-interaction-designer_eng.pdf</loc>
     <lastmod>2017-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sveako.se/assets/dakirby309-simply-styled-youtube.ico</loc>
+    <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

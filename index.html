@@ -11,71 +11,164 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
-  <title>Hem</title>
+  <title>Home</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4216778217"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-mallsida.css?crc=74138092"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3797976767" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=125443429"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-mallsida.css?crc=4249045611"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4122889156" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-mallsida.css?crc=3824530138"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=4255542861" id="nomq_pagesheet"/>
+  <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
-    <!--HTML Widget code-->
-  
-<script type="text/javascript">
-
-  (function() {
-    var liS = document.createElement('script'); liS.type = "text/javascript"; 
-    liS.src = (document.location.protocol == "https:" ? "https:" : "http:") + "//platform.linkedin.com/in.js";
-    liS.innerHTML = "lang: sv_SE";
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(liS, s);
-  })();
-</script>
-
- </head>
+   </head>
  <body>
 
-  <div class="clearfix gradient borderbox" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="pmenuu162"><!-- column -->
-    <nav class="MenuBar clearfix colelem" id="menuu162"><!-- horizontal box -->
-     <div class="MenuItemContainer clearfix grpelem" id="u163"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix colelem" id="u166" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u169"><!-- state-based BG images --><img alt="Hem" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
-     </div>
-     <div class="MenuItemContainer clearfix grpelem" id="u259"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u262" href="portfolio.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u263"><!-- state-based BG images --><img alt="Portfolio" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
-     </div>
-     <div class="MenuItemContainer clearfix grpelem" id="u280"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u283" href="photograpy.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u286"><!-- state-based BG images --><img alt="Photograpy" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
-     </div>
-     <div class="MenuItemContainer clearfix grpelem" id="u301"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u304" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u307"><!-- state-based BG images --><img alt="Contact" src="images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
-     </div>
-    </nav>
-    <img class="colelem" id="u256-10" alt="Welcome!! I´m David, Interaction Designer Based in South Sweden" src="images/u256-10.png?crc=4188429493" data-image-width="880"/><!-- rasterized frame -->
-    <div class="clearfix colelem" id="u351-5" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-     <p id="u351-3"><a class="nonblock" href="https://drive.google.com/file/d/0B8px4sPqgbcaVGVZeUdkTFZySE0/view?usp=sharing"><span id="u351">Resume</span></a></p>
+  <div class="breakpoint active" id="bp_infinity" data-min-width="625"><!-- responsive breakpoint node -->
+   <div class="clearfix gradient borderbox" id="page"><!-- group -->
+    <div id="menuu162-wrapper">
+     <nav class="MenuBar shadow clearfix" id="menuu162"><!-- horizontal box -->
+      <div class="MenuItemContainer clearfix grpelem" id="u163"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix colelem" id="u166" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u169"><!-- state-based BG images --><img alt="Home" src="images/blank.gif?crc=4208392903" class="shared_content" data-content-guid="u169_0_content"/><div class="fluid_height_spacer shared_content" data-content-guid="u169_1_content"></div></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u259"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u262" href="portfolio.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u263"><!-- state-based BG images --><img alt="Portfolio" src="images/blank.gif?crc=4208392903" class="shared_content" data-content-guid="u263_0_content"/><div class="fluid_height_spacer shared_content" data-content-guid="u263_1_content"></div></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u280"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u283" href="photograpy.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u286"><!-- state-based BG images --><img alt="Photograpy" src="images/blank.gif?crc=4208392903" class="shared_content" data-content-guid="u286_0_content"/><div class="fluid_height_spacer shared_content" data-content-guid="u286_1_content"></div></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u301"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u304" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u307"><!-- state-based BG images --><img alt="Contact" src="images/blank.gif?crc=4208392903" class="shared_content" data-content-guid="u307_0_content"/><div class="fluid_height_spacer shared_content" data-content-guid="u307_1_content"></div></div></a>
+      </div>
+     </nav>
     </div>
+    <div class="clearfix grpelem" id="ppu256-10"><!-- column -->
+     <div class="clearfix colelem" id="pu256-10"><!-- group -->
+      <img class="grpelem temp_no_img_src" id="u256-10" alt="Welcome!! I´m David, Interaction Designer Based in South Sweden" data-orig-src="images/u256-10.png?crc=4126098125" data-image-width="920" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+      <div class="clip_frame grpelem" id="u1228"><!-- image -->
+       <img class="block temp_no_img_src" id="u1228_img" data-orig-src="images/namnl%c3%b6st-1.png?crc=3880257870" alt="" data-heightwidthratio="1.0103626943005182" data-image-width="193" data-image-height="195" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <div class="clearfix colelem shared_content" id="u1241-5" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-content-guid="u1241-5_content"><!-- content -->
+      <p id="u1241-3"><a class="nonblock" href="https://drive.google.com/file/d/0B8px4sPqgbcaVGVZeUdkTFZySE0/view?usp=sharing"><span id="u1241">Show Résumé</span></a></p>
+     </div>
+     <div class="colelem shared_content" id="u3880" data-content-guid="u3880_content"><!-- custom html -->
+      <iframe src="https://open.spotify.com/embed/track/2fpKkOzGcJ1tnBDnu8kJmp" width="300" height="120" frameborder="0" allowtransparency="true"></iframe>
+     </div>
+    </div>
+    <div class="clearfix grpelem" id="pu152"><!-- group -->
+     <div id="u152-wrapper">
+      <div class="clip_frame" id="u152"><!-- image -->
+       <img class="block temp_no_img_src" id="u152_img" data-orig-src="images/895-crop-u152.jpg?crc=323998129" alt="" data-heightwidthratio="0.12643678160919541" data-image-width="174" data-image-height="22" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <div id="u1238-4-wrapper" class="shared_content" data-content-guid="u1238-4-wrapper_content">
+      <div class="clearfix" id="u1238-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+       <p>Copyright David Knutsson</p>
+      </div>
+     </div>
+    </div>
+    <div class="verticalspacer" data-offset-top="859" data-content-above-spacer="858" data-content-below-spacer="60" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    </div>
-   <div class="verticalspacer" data-offset-top="607" data-content-above-spacer="606" data-content-below-spacer="125" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
-   <div class="clearfix grpelem" id="pu356"><!-- column -->
-    <div class="size_fixed colelem" id="u356" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- custom html -->
-     
-<script type="IN/Share" data-url="https://www.linkedin.com/in/david-knutsson-31740a84/" data-counter="top"></script>
-
-    </div>
-    <div class="clip_frame colelem" id="u152"><!-- image -->
-     <img class="block" id="u152_img" src="images/895-crop-u152.jpg?crc=3809763" alt="" data-heightwidthratio="0.12079510703363915" data-image-width="654" data-image-height="79"/>
-    </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/u169-a.png?crc=16644714" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u263-a.png?crc=518691692" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u286-a.png?crc=362015773" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u307-a.png?crc=4099718343" alt="" src="images/blank.gif?crc=4208392903"/>
    </div>
   </div>
-  <div class="preload_images">
-   <img class="preload" src="images/u169-a.png?crc=4047204708" alt=""/>
-   <img class="preload" src="images/u263-a.png?crc=518691692" alt=""/>
-   <img class="preload" src="images/u286-a.png?crc=362015773" alt=""/>
-   <img class="preload" src="images/u307-a.png?crc=4099718343" alt=""/>
+  <div class="breakpoint" id="bp_624" data-min-width="401" data-max-width="624"><!-- responsive breakpoint node -->
+   <div class="clearfix gradient borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <span class="clearfix grpelem placeholder" data-placeholder-for="u1241-5_content"><!-- placeholder node --></span>
+    <div class="temp_no_id" data-orig-id="menuu162-wrapper">
+     <nav class="MenuBar shadow clearfix temp_no_id" data-orig-id="menuu162"><!-- horizontal box -->
+      <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u163"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u166"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem temp_no_id" data-orig-id="u169"><!-- state-based BG images --><span class="placeholder" data-placeholder-for="u169_0_content"><!-- placeholder node --></span><span class="fluid_height_spacer placeholder" data-placeholder-for="u169_1_content"><!-- placeholder node --></span></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u259"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="portfolio.html" data-orig-id="u262"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem temp_no_id" data-orig-id="u263"><!-- state-based BG images --><span class="placeholder" data-placeholder-for="u263_0_content"><!-- placeholder node --></span><span class="fluid_height_spacer placeholder" data-placeholder-for="u263_1_content"><!-- placeholder node --></span></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u280"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="photograpy.html" data-orig-id="u283"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem temp_no_id" data-orig-id="u286"><!-- state-based BG images --><span class="placeholder" data-placeholder-for="u286_0_content"><!-- placeholder node --></span><span class="fluid_height_spacer placeholder" data-placeholder-for="u286_1_content"><!-- placeholder node --></span></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u301"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="contact.html" data-orig-id="u304"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem temp_no_id" data-orig-id="u307"><!-- state-based BG images --><span class="placeholder" data-placeholder-for="u307_0_content"><!-- placeholder node --></span><span class="fluid_height_spacer placeholder" data-placeholder-for="u307_1_content"><!-- placeholder node --></span></div></a>
+      </div>
+     </nav>
+    </div>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu256-10"><!-- column -->
+     <img class="colelem temp_no_id temp_no_img_src" alt="Welcome!! I´m David, Interaction Designer Based in South Sweden" data-orig-src="images/u256-102.png?crc=277436152" data-image-width="572" data-orig-id="u256-10" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u1228"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/namnl%c3%b6st-1.png?crc=3880257870" alt="" data-heightwidthratio="1.016" data-image-width="125" data-image-height="127" data-orig-id="u1228_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="colelem placeholder" data-placeholder-for="u3880_content"><!-- placeholder node --></span>
+    </div>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu152"><!-- group -->
+     <div class="temp_no_id" data-orig-id="u152-wrapper">
+      <div class="clip_frame temp_no_id" data-orig-id="u152"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/895-crop-u152.jpg?crc=323998129" alt="" data-heightwidthratio="0.12280701754385964" data-image-width="114" data-image-height="14" data-orig-id="u152_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="placeholder" data-placeholder-for="u1238-4-wrapper_content"><!-- placeholder node --></span>
+    </div>
+    <div class="verticalspacer" data-offset-top="1033" data-content-above-spacer="1033" data-content-below-spacer="38" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/u169-a.png?crc=16644714" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u263-a.png?crc=518691692" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u286-a.png?crc=362015773" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u307-a.png?crc=4099718343" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_400" data-max-width="400"><!-- responsive breakpoint node -->
+   <div class="clearfix gradient borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="temp_no_id" data-orig-id="menuu162-wrapper">
+     <nav class="MenuBar shadow clearfix temp_no_id" data-orig-id="menuu162"><!-- horizontal box -->
+      <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u163"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u166"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem temp_no_id" data-orig-id="u169"><!-- state-based BG images --><span class="placeholder" data-placeholder-for="u169_0_content"><!-- placeholder node --></span><span class="fluid_height_spacer placeholder" data-placeholder-for="u169_1_content"><!-- placeholder node --></span></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u259"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="portfolio.html" data-orig-id="u262"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem temp_no_id" data-orig-id="u263"><!-- state-based BG images --><span class="placeholder" data-placeholder-for="u263_0_content"><!-- placeholder node --></span><span class="fluid_height_spacer placeholder" data-placeholder-for="u263_1_content"><!-- placeholder node --></span></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u280"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="photograpy.html" data-orig-id="u283"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem temp_no_id" data-orig-id="u286"><!-- state-based BG images --><span class="placeholder" data-placeholder-for="u286_0_content"><!-- placeholder node --></span><span class="fluid_height_spacer placeholder" data-placeholder-for="u286_1_content"><!-- placeholder node --></span></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u301"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="contact.html" data-orig-id="u304"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem temp_no_id" data-orig-id="u307"><!-- state-based BG images --><span class="placeholder" data-placeholder-for="u307_0_content"><!-- placeholder node --></span><span class="fluid_height_spacer placeholder" data-placeholder-for="u307_1_content"><!-- placeholder node --></span></div></a>
+      </div>
+     </nav>
+    </div>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu256-10"><!-- column -->
+     <img class="colelem temp_no_id temp_no_img_src" alt="Welcome!! I´m David, Interaction Designer Based in South Sweden" data-orig-src="images/u256-103.png?crc=243007756" data-image-width="360" data-orig-id="u256-10" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+     <span class="clearfix colelem placeholder" data-placeholder-for="u1241-5_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u3880_content"><!-- placeholder node --></span>
+    </div>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu152"><!-- group -->
+     <div class="temp_no_id" data-orig-id="u152-wrapper">
+      <div class="clip_frame temp_no_id" data-orig-id="u152"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/895-crop-u152.jpg?crc=323998129" alt="" data-heightwidthratio="0.1232876712328767" data-image-width="73" data-image-height="9" data-orig-id="u152_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="placeholder" data-placeholder-for="u1238-4-wrapper_content"><!-- placeholder node --></span>
+    </div>
+    <div class="clip_frame grpelem temp_no_id" data-orig-id="u1228"><!-- image -->
+     <img class="block temp_no_id temp_no_img_src" data-orig-src="images/namnl%c3%b6st-1.png?crc=3880257870" alt="" data-heightwidthratio="1.0125" data-image-width="80" data-image-height="81" data-orig-id="u1228_img" src="images/blank.gif?crc=4208392903"/>
+    </div>
+    <div class="verticalspacer" data-offset-top="899" data-content-above-spacer="898" data-content-below-spacer="38" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/u169-a.png?crc=16644714" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u263-a.png?crc=518691692" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u286-a.png?crc=362015773" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u307-a.png?crc=4099718343" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -88,14 +181,14 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="En del filer på servern kanske saknas eller är felaktiga. Rensa webbläsarens cacheminne och försök igen. Kontakta webbplatsadministratören om problemet kvarstår.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
-Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_624', '#bp_400'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.showWidgetsWhenReady();/* body */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 
