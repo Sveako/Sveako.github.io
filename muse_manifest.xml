@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506425945045">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506426874834">
   <folder name="css">
     <file name="site_global.css" crc="125443429"/>
     <file name="master_a-mallsida.css" crc="4264387097" ref="index:portfolio:contact:photography"/>
@@ -291,7 +291,7 @@
       <caption webpage="photography" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="151004542" seo="true" mt="1506425796467" redirect="true"/>
+  <file name="index.html" crc="3971269579" seo="true" mt="1506426772782" redirect="true"/>
   <file name="contact.html" crc="4241363325" seo="true" mt="1506425121890" redirect="true"/>
   <file name="portfolio.html" crc="371176623" seo="true" mt="1506425121890" redirect="true"/>
   <file name="photography.html" crc="3811803549" seo="true" mt="1506425121891" redirect="true"/>
