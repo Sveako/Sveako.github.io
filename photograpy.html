@@ -10,7 +10,7 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "photograpy.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.musemenu.js", "photograpy.css"], "outOfDate":[]};
 </script>
   
   <title>Photograpy</title>
@@ -26,7 +26,17 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
-   </head>
+    <!--custom head HTML-->
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107062564-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-107062564-1');
+</script>
+ </head>
  <body>
 
   <div class="clearfix gradient" id="page"><!-- column -->
@@ -52,7 +62,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
     </nav>
    </div>
-   <div class="verticalspacer" data-offset-top="120" data-content-above-spacer="612" data-content-below-spacer="4392"></div>
+   <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="612" data-content-below-spacer="4392"></div>
   </div>
   <div class="preload_images">
    <img class="preload" src="images/u169-a.png?crc=16644714" alt=""/>
