@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506513339809">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506514146668">
   <folder name="css">
     <file name="site_global.css" crc="125443429"/>
-    <file name="master_a-mallsida.css" crc="3773723345" ref="portfolio:index:photography:contact"/>
-    <file name="nomq_preview_master_a-mallsida.css" crc="3824530138" ref="portfolio:index:photography:contact"/>
+    <file name="master_a-mallsida.css" crc="4171551962" ref="portfolio:index:photography:contact"/>
+    <file name="nomq_preview_master_a-mallsida.css" crc="3824530138" ref="portfolio:index:contact"/>
     <file name="portfolio.css" crc="3866719224" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="440317555" ref="portfolio"/>
     <file name="index.css" crc="4038917289" ref="index"/>
@@ -50,11 +50,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="photography" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="110742_youtube_512x512.png" crc="4155085510" seo="true" ref="phone>index:phone>portfolio:phone>contact:index:contact:portfolio:photography">
       <caption webpage="index" alt=""/>
@@ -62,21 +62,21 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="photography" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="github-512.png" crc="4253650748" seo="true" ref="phone>index:phone>portfolio:phone>contact:index:contact:portfolio:photography">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="photography" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="donera-crop-u17632.png" crc="112250007" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -306,5 +306,5 @@
   <file name="index.html" crc="383128968" seo="true" mt="1506502591935" redirect="true"/>
   <file name="contact.html" crc="524049196" seo="true" mt="1506502591935" redirect="true"/>
   <file name="portfolio.html" crc="140908353" seo="true" mt="1506513258245" redirect="true"/>
-  <file name="photography.html" crc="3962781594" seo="true" mt="1506502591935" redirect="true"/>
+  <file name="photography.html" crc="439515488" seo="true" mt="1506514056954" redirect="true"/>
 </manifest>
