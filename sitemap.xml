@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://sveako.se/index.html</loc>
-    <lastmod>2017-09-27</lastmod>
+    <lastmod>2017-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sveako.se/phone/index.html"/>
@@ -27,7 +27,7 @@
   </url>
   <url>
     <loc>http://sveako.se/contact.html</loc>
-    <lastmod>2017-09-27</lastmod>
+    <lastmod>2017-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sveako.se/phone/contact.html"/>
@@ -46,7 +46,7 @@
   </url>
   <url>
     <loc>http://sveako.se/portfolio.html</loc>
-    <lastmod>2017-09-27</lastmod>
+    <lastmod>2017-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sveako.se/phone/portfolio.html"/>
@@ -167,7 +167,7 @@
   </url>
   <url>
     <loc>http://sveako.se/photography.html</loc>
-    <lastmod>2017-09-27</lastmod>
+    <lastmod>2017-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
