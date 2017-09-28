@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506626974794">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506627379513">
   <folder name="css">
     <file name="site_global.css" crc="4292135631"/>
     <file name="master_a-mallsida.css" crc="4171551962" ref="portfolio:index:photography:contact"/>
@@ -36,50 +36,29 @@
     <file name="u18965-10.png" crc="3885913543" ref="phone>index"/>
     <file name="namnlöst-1.png" crc="3880257870" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="pildown.png" crc="172295231" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="linkedin_circle_color-512.png" crc="3878298965" seo="true" ref="phone>index:phone>portfolio:phone>contact:index:contact:portfolio:photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
     <file name="110742_youtube_512x512.png" crc="4155085510" seo="true" ref="phone>index:phone>portfolio:phone>contact:index:contact:portfolio:photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
     <file name="github-512.png" crc="4253650748" seo="true" ref="phone>index:phone>portfolio:phone>contact:index:contact:portfolio:photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
     <file name="rjgfpahgi9afegiarjgherajhgåaj0haj.png" crc="407328266" seo="true" ref="phone>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="rjgfpahgi9afegiarjgherajhgåaj0haj-crop-u17613.png" crc="4234263132" seo="true" ref="phone>portfolio">
@@ -185,7 +164,6 @@
     </file>
     <file name="donera.png" crc="3759682245" seo="true" ref="portfolio:phone>portfolio">
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="bank_id-crop-u9005.jpg" crc="123701601" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -290,16 +268,14 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-mallsida.css" crc="3912734611" ref="phone>portfolio:phone>index:phone>contact"/>
-      <file name="nomq_preview_master_a-mallsida.css" crc="3824530138" ref="phone>portfolio:phone>index:phone>contact"/>
-      <file name="portfolio.css" crc="53070035" ref="phone>portfolio"/>
-      <file name="index.css" crc="3982177077" ref="phone>index"/>
-      <file name="contact.css" crc="482778710" ref="phone>contact"/>
-      <file name="nomq_contact.css" crc="3824530138" ref="phone>contact"/>
+      <file name="master_a-mallsida.css" crc="474132230" ref="phone>portfolio:phone>index:phone>contact"/>
+      <file name="portfolio.css" crc="391336902" ref="phone>portfolio"/>
+      <file name="index.css" crc="115713839" ref="phone>index"/>
+      <file name="contact.css" crc="3966067934" ref="phone>contact"/>
     </folder>
-    <file name="index.html" crc="4045260785" seo="true" mt="1506626856688" redirect="true"/>
-    <file name="portfolio.html" crc="3861692753" seo="true" mt="1506626860857" redirect="true"/>
-    <file name="contact.html" crc="25488277" seo="true" mt="1506626863945" redirect="true"/>
+    <file name="index.html" crc="3943471016" seo="true" mt="1506627311208" redirect="true"/>
+    <file name="portfolio.html" crc="3821234064" seo="true" mt="1506627311208" redirect="true"/>
+    <file name="contact.html" crc="210961306" seo="true" mt="1506627311208" redirect="true"/>
   </folder>
   <file name="index.html" crc="287444050" seo="true" mt="1506626219008" redirect="true"/>
   <file name="contact.html" crc="525947988" seo="true" mt="1506626219024" redirect="true"/>
