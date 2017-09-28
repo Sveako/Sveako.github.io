@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506627803039">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506628135896">
   <folder name="css">
     <file name="site_global.css" crc="4292135631"/>
     <file name="master_a-mallsida.css" crc="4171551962" ref="portfolio:index:photography:contact"/>
@@ -270,10 +270,10 @@
     <folder name="css">
       <file name="master_a-mallsida.css" crc="474132230" ref="phone>portfolio:phone>index:phone>contact"/>
       <file name="portfolio.css" crc="4053085342" ref="phone>portfolio"/>
-      <file name="index.css" crc="3777297558" ref="phone>index"/>
+      <file name="index.css" crc="3794236541" ref="phone>index"/>
       <file name="contact.css" crc="349983817" ref="phone>contact"/>
     </folder>
-    <file name="index.html" crc="384806875" seo="true" mt="1506627732684" redirect="true"/>
+    <file name="index.html" crc="490038671" seo="true" mt="1506628070146" redirect="true"/>
     <file name="portfolio.html" crc="3765306168" seo="true" mt="1506627632734" redirect="true"/>
     <file name="contact.html" crc="530068956" seo="true" mt="1506627632734" redirect="true"/>
   </folder>
