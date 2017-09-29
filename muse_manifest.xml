@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506628135896">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506670161343">
   <folder name="css">
     <file name="site_global.css" crc="4292135631"/>
     <file name="master_a-mallsida.css" crc="4171551962" ref="portfolio:index:photography:contact"/>
@@ -28,7 +28,7 @@
     <file name="touchswipe.js" crc="432264157" ref="phone>portfolio:portfolio:photography"/>
     <file name="jquery.musemenu.js" crc="4286030528" ref="index:contact:portfolio:photography"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contact:portfolio:photography"/>
-    <file name="jquery.museresponsive.js" crc="4267800278" ref="index:portfolio"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index:portfolio:phone>portfolio"/>
     <file name="jquery.scrolleffects.js" crc="232371266" ref="photography"/>
   </folder>
   <folder name="images">
@@ -43,44 +43,49 @@
     <file name="linkedin_circle_color-512.png" crc="3878298965" seo="true" ref="phone>index:phone>portfolio:phone>contact:index:contact:portfolio:photography">
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="110742_youtube_512x512.png" crc="4155085510" seo="true" ref="phone>index:phone>portfolio:phone>contact:index:contact:portfolio:photography">
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="github-512.png" crc="4253650748" seo="true" ref="phone>index:phone>portfolio:phone>contact:index:contact:portfolio:photography">
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="rjgfpahgi9afegiarjgherajhgåaj0haj.png" crc="407328266" seo="true" ref="phone>portfolio:portfolio">
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="rjgfpahgi9afegiarjgherajhgåaj0haj-crop-u17613.png" crc="4234263132" seo="true" ref="phone>portfolio">
+    <file name="rjgfpahgi9afegiarjgherajhgåaj0haj-crop-u17613.png" crc="221026018" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="phone>portfolio:portfolio:photography"/>
     <file name="försvarsutbildarna365x206.png" crc="3957298956" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="dfasdgasdg-crop-u18195.jpg" crc="530250833" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="rum_edit-crop-u18189.jpg" crc="3909493486" seo="true" ref="phone>portfolio">
+    <file name="dfasdgasdg-crop-u18195.jpg" crc="129295819" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="ruum-crop-u18197.jpg" crc="4183405838" seo="true" ref="phone>portfolio">
+    <file name="rum_edit-crop-u18189.jpg" crc="4019654724" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="sdfgvag-crop-u18191.jpg" crc="3764162120" seo="true" ref="phone>portfolio">
+    <file name="ruum-crop-u18197.jpg" crc="483052227" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="trsjnz-crop-u18193.jpg" crc="254179625" seo="true" ref="phone>portfolio">
+    <file name="sdfgvag-crop-u18191.jpg" crc="268386947" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="trsjnz-crop-u18193.jpg" crc="3814604135" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="u169.png" crc="4223146803" ref="index:contact:portfolio:photography"/>
@@ -162,7 +167,7 @@
     <file name="kopia av rolll-crop-u16463.png" crc="3880978755" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="donera.png" crc="3759682245" seo="true" ref="portfolio:phone>portfolio">
+    <file name="donera.png" crc="3759682245" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="bank_id-crop-u9005.jpg" crc="123701601" seo="true" ref="portfolio">
@@ -247,15 +252,6 @@
     <file name="donerat166x288.jpg" crc="3962437329" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="donera48x85.png" crc="41611319" seo="true" ref="phone>portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="bank_id45x80.jpg" crc="86491863" seo="true" ref="phone>portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="donerat46x80.jpg" crc="3842379652" seo="true" ref="phone>portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
     <file name="funktionen309x165.jpg" crc="200983554" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -265,16 +261,75 @@
     <file name="hi-fi_startscreen309x188.png" crc="236837589" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
+    <file name="donera-crop-u17632.png" crc="4167237751" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bank_id197x350.jpg" crc="71512819" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donerat197x341.jpg" crc="4129763159" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donera-crop-u17609.png" crc="436382373" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bank_id-crop-u17611.jpg" crc="3866627989" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donerat-crop-u17615.jpg" crc="92822316" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="funktionen366x196.jpg" crc="4168442655" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mobile2366x196.jpg" crc="407638228" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hi-fi_startscreen367x223.png" crc="3972861676" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donera-crop-u176322.png" crc="431798616" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donera-crop-u176092.png" crc="4034095317" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rjgfpahgi9afegiarjgherajhgåaj0haj-crop-u176132.png" crc="4234263132" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bank_id-crop-u176112.jpg" crc="312054090" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donerat-crop-u176152.jpg" crc="3792159040" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dfasdgasdg-crop-u181952.jpg" crc="530250833" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rum_edit-crop-u181892.jpg" crc="3909493486" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ruum-crop-u181972.jpg" crc="4183405838" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="sdfgvag-crop-u181912.jpg" crc="3764162120" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="trsjnz-crop-u181932.jpg" crc="254179625" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-mallsida.css" crc="474132230" ref="phone>portfolio:phone>index:phone>contact"/>
-      <file name="portfolio.css" crc="4053085342" ref="phone>portfolio"/>
+      <file name="master_a-mallsida.css" crc="3868220830" ref="phone>portfolio:phone>index:phone>contact"/>
+      <file name="portfolio.css" crc="3803467539" ref="phone>portfolio"/>
       <file name="index.css" crc="3794236541" ref="phone>index"/>
       <file name="contact.css" crc="349983817" ref="phone>contact"/>
+      <file name="nomq_preview_master_a-mallsida.css" crc="3824530138" ref="phone>portfolio"/>
+      <file name="nomq_portfolio.css" crc="4168544643" ref="phone>portfolio"/>
     </folder>
     <file name="index.html" crc="490038671" seo="true" mt="1506628070146" redirect="true"/>
-    <file name="portfolio.html" crc="3765306168" seo="true" mt="1506627632734" redirect="true"/>
+    <file name="portfolio.html" crc="372163030" seo="true" mt="1506670103061" redirect="true"/>
     <file name="contact.html" crc="530068956" seo="true" mt="1506627632734" redirect="true"/>
   </folder>
   <file name="index.html" crc="287444050" seo="true" mt="1506626219008" redirect="true"/>
