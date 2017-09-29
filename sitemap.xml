@@ -46,7 +46,7 @@
   </url>
   <url>
     <loc>http://sveako.se/portfolio.html</loc>
-    <lastmod>2017-09-28</lastmod>
+    <lastmod>2017-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://sveako.se/phone/portfolio.html"/>
@@ -67,9 +67,6 @@
     </image:image>
     <image:image>
       <image:loc>http://sveako.se/images/donera-crop-u9003.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sveako.se/images/bank_id203x360.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://sveako.se/images/donerat208x360.jpg</image:loc>
@@ -163,6 +160,42 @@
     </image:image>
     <image:image>
       <image:loc>http://sveako.se/images/namnl%C3%B6st-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/bank_id202x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/mockup_menu-crop-u21778.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/segehj%C3%A4lpppp-crop-u21572.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/segehj%C3%A4pee.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/mockup_menu-crop-u21788.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/hi-fi_startscreen-crop-u21749.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/segehj%C3%A4pee60x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/mockup_menu-crop-u217782.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/segehj%C3%A4lpppp.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/mockup_menu-crop-u217882.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/hi-fi_startscreen-crop-u217492.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sveako.se/images/segehj%C3%A4pee48x36.jpg</image:loc>
     </image:image>
   </url>
   <url>

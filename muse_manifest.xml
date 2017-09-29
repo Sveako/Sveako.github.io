@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506670161343">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506683246113">
   <folder name="css">
     <file name="site_global.css" crc="4292135631"/>
-    <file name="master_a-mallsida.css" crc="4171551962" ref="portfolio:index:photography:contact"/>
+    <file name="master_a-mallsida.css" crc="3988713906" ref="portfolio:index:photography:contact"/>
     <file name="nomq_preview_master_a-mallsida.css" crc="3824530138" ref="portfolio:index:contact:photography"/>
-    <file name="portfolio.css" crc="3969474936" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="440317555" ref="portfolio"/>
+    <file name="portfolio.css" crc="3810649636" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4284669114" ref="portfolio"/>
     <file name="index.css" crc="463268111" ref="index"/>
     <file name="nomq_index.css" crc="435457921" ref="index"/>
     <file name="photography.css" crc="3934857364" ref="photography"/>
@@ -44,22 +44,22 @@
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="photography" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
     <file name="110742_youtube_512x512.png" crc="4155085510" seo="true" ref="phone>index:phone>portfolio:phone>contact:index:contact:portfolio:photography">
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="photography" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
     <file name="github-512.png" crc="4253650748" seo="true" ref="phone>index:phone>portfolio:phone>contact:index:contact:portfolio:photography">
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="photography" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
     <file name="rjgfpahgi9afegiarjgherajhgåaj0haj.png" crc="407328266" seo="true" ref="phone>portfolio:portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -104,15 +104,12 @@
     <file name="895-crop-u152.jpg" crc="3953213991" seo="true" ref="index:contact:portfolio">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="u256-102.png" crc="318652549" ref="index"/>
     <file name="donera-crop-u9003.png" crc="112250007" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="bank_id203x360.jpg" crc="187074245" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="donerat208x360.jpg" crc="3759163562" seo="true" ref="portfolio">
@@ -142,7 +139,7 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="hi-fi_startscreen.png" crc="4182716091" seo="true" ref="portfolio">
+    <file name="hi-fi_startscreen.png" crc="404850536" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -318,6 +315,43 @@
     <file name="trsjnz-crop-u181932.jpg" crc="254179625" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
+    <file name="bank_id202x360.jpg" crc="187074245" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mockup_menu-crop-u21778.png" crc="4194842198" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="segehjälpppp-crop-u21572.jpg" crc="3897724810" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="segehjäpee.jpg" crc="383488925" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mockup_menu-crop-u21788.png" crc="390555126" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hi-fi_startscreen-crop-u21749.png" crc="3776527778" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="segehjäpee60x45.jpg" crc="223499439" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mockup_menu-crop-u217782.png" crc="3988634580" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="segehjälpppp.jpg" crc="152580479" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mockup_menu-crop-u217882.png" crc="386127213" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hi-fi_startscreen-crop-u217492.png" crc="4083224829" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="segehjäpee48x36.jpg" crc="4034273110" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -334,6 +368,6 @@
   </folder>
   <file name="index.html" crc="287444050" seo="true" mt="1506626219008" redirect="true"/>
   <file name="contact.html" crc="525947988" seo="true" mt="1506626219024" redirect="true"/>
-  <file name="portfolio.html" crc="4201685104" seo="true" mt="1506626219008" redirect="true"/>
+  <file name="portfolio.html" crc="294288397" seo="true" mt="1506683178039" redirect="true"/>
   <file name="photography.html" crc="104752627" seo="true" mt="1506626219008" redirect="true"/>
 </manifest>
