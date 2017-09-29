@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506683246113">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sveako.se" resolutions="1x" timestamp="1506684628859">
   <folder name="css">
     <file name="site_global.css" crc="4292135631"/>
     <file name="master_a-mallsida.css" crc="3988713906" ref="portfolio:index:photography:contact"/>
