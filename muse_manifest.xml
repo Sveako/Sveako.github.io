@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1508246338763">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1508246458628">
   <folder name="css">
     <file name="site_global.css" crc="217077758"/>
     <file name="master_b-mallsida.css" crc="440333078" ref="försvarsutbildarna:3d:donera:roll:namnlöst-9:namnlöst-10:segehjälpen:thesis:namnlöst-7:hangman"/>
