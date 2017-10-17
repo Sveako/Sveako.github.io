@@ -1,0 +1,80 @@
+.version.namnl_st_10 /* version checker */
+{
+	color: #000012;
+	background-color: #3B696B;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 778px;
+	min-height: 757px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #F2F2F2;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px 156px 713px 26px;
+}
+
+#u205-4
+{
+	z-index: 2;
+	width: 70px;
+	min-height: 23px;
+}
+
+#u585-7
+{
+	z-index: 6;
+	width: 669px;
+	min-height: 170px;
+	background-color: transparent;
+	color: #4D4D4D;
+	margin-left: 109px;
+	margin-top: 160px;
+	position: relative;
+}
+
+#u585-2
+{
+	font-size: 30px;
+	line-height: 36px;
+}
+
+#u585-5
+{
+	font-size: 18px;
+	line-height: 22px;
+}
+
+#u586
+{
+	z-index: 13;
+	width: 560px;
+	min-height: 319px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 164px;
+	margin-top: 79px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

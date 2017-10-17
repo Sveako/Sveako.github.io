@@ -1,0 +1,91 @@
+.version._3d /* version checker */
+{
+	color: #0000F8;
+	background-color: #AC2B73;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 895px;
+	min-height: 1283px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #F2F2F2;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px 39px 187px 26px;
+}
+
+#u205-4
+{
+	z-index: 2;
+	width: 70px;
+	min-height: 23px;
+}
+
+#u621-4
+{
+	z-index: 12;
+	width: 676px;
+	min-height: 45px;
+	background-color: transparent;
+	font-size: 18px;
+	line-height: 22px;
+	margin-left: 116px;
+	margin-top: 140px;
+	position: relative;
+}
+
+#u603
+{
+	z-index: 6;
+	width: 881px;
+	background-color: transparent;
+	margin-left: 14px;
+	margin-top: 78px;
+	position: relative;
+}
+
+#u603_img
+{
+	padding-right: 1px;
+}
+
+#u613
+{
+	z-index: 10;
+	width: 881px;
+	background-color: transparent;
+	margin-left: 14px;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u608
+{
+	z-index: 8;
+	width: 881px;
+	background-color: transparent;
+	margin-left: 14px;
+	margin-top: 29px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
