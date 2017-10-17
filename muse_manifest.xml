@@ -1,9 +1,9 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1508246458628">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1508259109670">
   <folder name="css">
     <file name="site_global.css" crc="217077758"/>
     <file name="master_b-mallsida.css" crc="440333078" ref="försvarsutbildarna:3d:donera:roll:namnlöst-9:namnlöst-10:segehjälpen:thesis:namnlöst-7:hangman"/>
     <file name="f_rsvarsutbildarna.css" crc="125168430" ref="försvarsutbildarna"/>
-    <file name="index.css" crc="248686382" ref="index"/>
+    <file name="index.css" crc="3985782847" ref="index"/>
     <file name="3d.css" crc="4172032883" ref="3d"/>
     <file name="donera.css" crc="44865457" ref="donera"/>
     <file name="roll.css" crc="299768036" ref="roll"/>
@@ -57,7 +57,7 @@
     <file name="dfasdgasdg.jpg" crc="360146454" ref="3d"/>
     <file name="trsjnz.jpg" crc="461918319" ref="3d"/>
   </folder>
-  <file name="index.html" crc="4042710111" mt="1508246127298" redirect="true"/>
+  <file name="index.html" crc="3953762210" mt="1508259101601" redirect="true"/>
   <file name="donera.html" crc="4225161421" mt="1508229989194" redirect="true"/>
   <file name="försvarsutbildarna.html" crc="136026270" mt="1508230531184" redirect="true"/>
   <file name="thesis.html" crc="74695284" mt="1508244162921" redirect="true"/>

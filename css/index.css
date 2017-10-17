@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000E;
-	background-color: #D2A72E;
+	color: #0000ED;
+	background-color: #92383F;
 }
 
 .html
@@ -71,8 +71,8 @@
 	transform: matrix(-0.9455,0.3256,-0.3256,-0.9455,85,41);
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 176px;
-	left: 163px;
+	margin-top: 139px;
+	left: 181px;
 }
 
 #u160_img
@@ -87,15 +87,15 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 78px;
-	left: 199px;
+	margin-top: 41px;
+	left: 218px;
 }
 
 #ppu127-5
 {
 	width: 0.01px;
 	margin-left: 24px;
-	margin-top: 141px;
+	margin-top: 177px;
 }
 
 #u127-5
@@ -494,8 +494,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 346px;
-	top: -1877px;
+	margin-left: 321px;
+	top: -1869px;
 	margin-bottom: -90px;
 	position: relative;
 }
