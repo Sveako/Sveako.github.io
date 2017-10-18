@@ -1,7 +1,7 @@
-.version.segehj_lpen /* version checker */
+.version.segehj_lpen_kopia /* version checker */
 {
-	color: #0000EB;
-	background-color: #5A6BFB;
+	color: #000011;
+	background-color: #2FE105;
 }
 
 .html
@@ -30,14 +30,14 @@
 	min-height: 23px;
 }
 
-#pu522-13
+#pu814-15
 {
 	width: 0.01px;
 	margin-left: 76px;
 	margin-top: 78px;
 }
 
-#u522-13
+#u814-15
 {
 	z-index: 10;
 	width: 422px;
@@ -48,31 +48,19 @@
 	margin-right: -10000px;
 }
 
-#u522-4,#u522-7
-{
-	font-size: 30px;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u522-3,#u522-6
-{
-	font-size: 14px;
-	line-height: 17px;
-}
-
-#u522-2,#u522-5,#u522-8,#u522-9
+#u814-2
 {
 	font-size: 30px;
 	line-height: 36px;
 }
 
-#u522-11
+#u814-4,#u814-5,#u814-7,#u814-8,#u814-10,#u814-11,#u814-13
 {
 	font-size: 18px;
 	line-height: 22px;
 }
 
-#u503
+#u817
 {
 	z-index: 6;
 	width: 401px;
@@ -82,19 +70,19 @@
 	left: 422px;
 }
 
-#u515
+#u819
 {
 	z-index: 8;
 	width: 510px;
 	background-color: transparent;
 	margin-left: 199px;
-	margin-top: 33px;
+	margin-top: 14px;
 	position: relative;
 }
 
-#u529
+#u815
 {
-	z-index: 25;
+	z-index: 27;
 	width: 369px;
 	background-color: transparent;
 	margin-left: 34px;
@@ -102,20 +90,20 @@
 	position: relative;
 }
 
-#u529_img
+#u815_img
 {
 	padding-right: 1px;
 	padding-bottom: 1px;
 }
 
-#u523
+#u821
 {
-	z-index: 23;
+	z-index: 25;
 	width: 389px;
 	background-color: transparent;
 	margin-left: 470px;
-	top: -177px;
-	margin-bottom: -177px;
+	top: -158px;
+	margin-bottom: -158px;
 	position: relative;
 }
 

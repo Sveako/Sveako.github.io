@@ -1,0 +1,98 @@
+.version.namnl_st_9_kopia /* version checker */
+{
+	color: #00001B;
+	background-color: #B2C15E;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 895px;
+	min-height: 897px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #F2F2F2;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px 39px 573px 26px;
+}
+
+#u205-4
+{
+	z-index: 2;
+	width: 70px;
+	min-height: 23px;
+}
+
+#u864-33
+{
+	z-index: 6;
+	width: 882px;
+	min-height: 287px;
+	background-color: transparent;
+	margin-left: 13px;
+	margin-top: 55px;
+	position: relative;
+}
+
+#u864-2
+{
+	font-size: 30px;
+	line-height: 36px;
+	color: #4D4D4D;
+}
+
+#u864-4,#u864-5,#u864-7,#u864-9,#u864-10,#u864-11,#u864-12,#u864-17,#u864-18,#u864-19,#u864-21,#u864-23,#u864-24,#u864-26,#u864-28
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #4D4D4D;
+}
+
+#pu862
+{
+	width: 0.01px;
+	margin-left: 174px;
+	margin-top: 33px;
+}
+
+#u862
+{
+	z-index: 39;
+	width: 560px;
+	min-height: 319px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u865-3
+{
+	z-index: 40;
+	width: 5px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 307px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

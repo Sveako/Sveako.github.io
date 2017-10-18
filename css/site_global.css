@@ -81,22 +81,16 @@ body
 	body { text-rendering:auto; }
 }
 
-a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 a:link
 {
-	color: #FFFFFF;
+	color: #4D4D4D;
 	text-decoration: underline;
 }
 
 a:visited
 {
 	color: #800080;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 a:hover
@@ -108,7 +102,7 @@ a:hover
 a:active
 {
 	color: #EE0000;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 a.nontext /* used to override default properties of 'a' tag */

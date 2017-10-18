@@ -1,7 +1,7 @@
-.version.hangman /* version checker */
+.version.roll_kopia /* version checker */
 {
-	color: #0000E9;
-	background-color: #F61267;
+	color: #000019;
+	background-color: #79011D;
 }
 
 .html
@@ -12,15 +12,15 @@
 #page
 {
 	z-index: 1;
-	width: 862px;
-	min-height: 754px;
+	width: 920px;
+	min-height: 1255px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #F2F2F2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 30px 72px 716px 26px;
+	padding: 30px 20px 215px;
 }
 
 #u205-4
@@ -28,42 +28,55 @@
 	z-index: 2;
 	width: 70px;
 	min-height: 23px;
+	margin-left: 6px;
 }
 
-#u565-6
+#u803
 {
-	z-index: 7;
-	width: 766px;
-	min-height: 94px;
+	z-index: 6;
+	width: 920px;
 	background-color: transparent;
-	color: #4D4D4D;
-	margin-left: 96px;
-	margin-top: 176px;
+	margin-top: 103px;
 	position: relative;
 }
 
-#u565-2
+#u803_img
+{
+	padding-right: 1px;
+}
+
+#u800-10
+{
+	z-index: 8;
+	width: 898px;
+	min-height: 135px;
+	background-color: transparent;
+	margin-left: 5px;
+	margin-top: 91px;
+	position: relative;
+}
+
+#u800-2
 {
 	font-size: 30px;
 	line-height: 36px;
+	color: #4D4D4D;
 }
 
-#u565-4
+#u800-4,#u800-5,#u800-7
 {
 	font-size: 18px;
 	line-height: 22px;
+	color: #4D4D4D;
 }
 
-#u563
+#u801
 {
-	z-index: 6;
-	width: 560px;
-	min-height: 319px;
-	border-style: none;
-	border-color: transparent;
+	z-index: 18;
+	width: 513px;
 	background-color: transparent;
-	margin-left: 174px;
-	margin-top: 106px;
+	margin-left: 197px;
+	margin-top: 14px;
 	position: relative;
 }
 

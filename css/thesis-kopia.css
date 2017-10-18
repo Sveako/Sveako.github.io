@@ -1,7 +1,7 @@
-.version.thesis /* version checker */
+.version.thesis_kopia /* version checker */
 {
-	color: #000001;
-	background-color: #30231C;
+	color: #000013;
+	background-color: #F2853D;
 }
 
 .html
@@ -30,7 +30,7 @@
 	min-height: 23px;
 }
 
-#u655-3
+#u783-3
 {
 	z-index: 47;
 	width: 12px;
@@ -40,18 +40,18 @@
 	position: relative;
 }
 
-#ppu654-4
+#ppu781-4
 {
 	width: 0.01px;
 }
 
-#pu654-4
+#pu781-4
 {
 	width: 0.01px;
 	margin-right: -10000px;
 }
 
-#u654-4
+#u781-4
 {
 	z-index: 43;
 	width: 409px;
@@ -64,7 +64,7 @@
 	position: relative;
 }
 
-#u334
+#u777
 {
 	z-index: 6;
 	width: 454px;
@@ -73,7 +73,7 @@
 	position: relative;
 }
 
-#u652-5
+#u787-5
 {
 	z-index: 17;
 	width: 425px;
@@ -87,30 +87,30 @@
 	left: 488px;
 }
 
-#u652-3
+#u787-3
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u652
+#u787
 {
 	font-size: 18px;
 	line-height: 22px;
 }
 
-#u652-2
+#u787-2
 {
 	line-height: 17px;
 }
 
-#pu653-21
+#pu782-21
 {
 	width: 0.01px;
 	margin-left: 13px;
 	margin-top: 54px;
 }
 
-#u653-21
+#u782-21
 {
 	z-index: 22;
 	width: 451px;
@@ -120,7 +120,7 @@
 	margin-right: -10000px;
 }
 
-#u653-2
+#u782-2
 {
 	font-size: 18px;
 	line-height: 22px;
@@ -128,18 +128,18 @@
 	color: #4D4D4D;
 }
 
-#u653-11,#u653-16
+#u782-11,#u782-16
 {
 	letter-spacing: 1px;
 }
 
-#u653-4,#u653-6,#u653-8,#u653-10,#u653-13,#u653-15,#u653-18
+#u782-4,#u782-6,#u782-8,#u782-10,#u782-13,#u782-15,#u782-18
 {
 	letter-spacing: 1px;
 	color: #4D4D4D;
 }
 
-#u359-3
+#u784-3
 {
 	z-index: 14;
 	width: 10px;
@@ -151,7 +151,7 @@
 	left: 619px;
 }
 
-#u352
+#u775
 {
 	z-index: 12;
 	width: 374px;
@@ -162,7 +162,7 @@
 	position: relative;
 }
 
-#u346
+#u779
 {
 	z-index: 10;
 	width: 449px;
@@ -173,7 +173,7 @@
 	position: relative;
 }
 
-#u340
+#u773
 {
 	z-index: 8;
 	width: 456px;
@@ -184,7 +184,7 @@
 	position: relative;
 }
 
-#u656
+#u785
 {
 	z-index: 50;
 	width: 456px;

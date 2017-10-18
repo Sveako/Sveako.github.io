@@ -1,7 +1,7 @@
-.version.roll /* version checker */
+.version._3d_kopia /* version checker */
 {
-	color: #000012;
-	background-color: #8130E9;
+	color: #0000FA;
+	background-color: #262DF7;
 }
 
 .html
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	width: 920px;
+	width: 895px;
 	min-height: 1283px;
 	background-image: none;
 	border-style: none;
@@ -20,7 +20,7 @@
 	background-color: #F2F2F2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 30px 26px 187px 14px;
+	padding: 30px 39px 187px 26px;
 }
 
 #u205-4
@@ -28,50 +28,53 @@
 	z-index: 2;
 	width: 70px;
 	min-height: 23px;
-	margin-left: 12px;
 }
 
-#u1020
+#u886-4
 {
-	z-index: 21;
-	width: 920px;
+	z-index: 12;
+	width: 676px;
+	min-height: 45px;
 	background-color: transparent;
-	margin-top: 70px;
-	position: relative;
-}
-
-#u382-13
-{
-	z-index: 6;
-	width: 898px;
-	min-height: 135px;
-	background-color: transparent;
-	margin-left: 11px;
-	margin-top: 124px;
-	position: relative;
-}
-
-#u382-2
-{
-	font-size: 30px;
-	line-height: 36px;
-	color: #4D4D4D;
-}
-
-#u382-4,#u382-5,#u382-7,#u382-8,#u382-10
-{
 	font-size: 18px;
 	line-height: 22px;
-	color: #4D4D4D;
+	margin-left: 116px;
+	margin-top: 140px;
+	position: relative;
 }
 
-#u383
+#u882
 {
-	z-index: 19;
-	width: 513px;
+	z-index: 6;
+	width: 881px;
 	background-color: transparent;
-	margin-left: 203px;
-	margin-top: 14px;
+	margin-left: 14px;
+	margin-top: 78px;
+	position: relative;
+}
+
+#u882_img
+{
+	padding-right: 1px;
+}
+
+#u880
+{
+	z-index: 10;
+	width: 881px;
+	background-color: transparent;
+	margin-left: 14px;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u884
+{
+	z-index: 8;
+	width: 881px;
+	background-color: transparent;
+	margin-left: 14px;
+	margin-top: 29px;
 	position: relative;
 }
 

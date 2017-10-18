@@ -1,7 +1,7 @@
-.version.hangman /* version checker */
+.version.hangman_kopia /* version checker */
 {
-	color: #0000E9;
-	background-color: #F61267;
+	color: #0000EF;
+	background-color: #683BFE;
 }
 
 .html
@@ -13,14 +13,14 @@
 {
 	z-index: 1;
 	width: 862px;
-	min-height: 754px;
+	min-height: 724px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #F2F2F2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 30px 72px 716px 26px;
+	padding: 30px 72px 746px 26px;
 }
 
 #u205-4
@@ -30,7 +30,7 @@
 	min-height: 23px;
 }
 
-#u565-6
+#u853-6
 {
 	z-index: 7;
 	width: 766px;
@@ -42,19 +42,19 @@
 	position: relative;
 }
 
-#u565-2
+#u853-2
 {
 	font-size: 30px;
 	line-height: 36px;
 }
 
-#u565-4
+#u853-4
 {
 	font-size: 18px;
 	line-height: 22px;
 }
 
-#u563
+#u851
 {
 	z-index: 6;
 	width: 560px;

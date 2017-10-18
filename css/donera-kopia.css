@@ -1,7 +1,7 @@
-.version.donera /* version checker */
+.version.donera_kopia /* version checker */
 {
-	color: #000012;
-	background-color: #2C90BA;
+	color: #0000E4;
+	background-color: #68D943;
 }
 
 .html
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	width: 909px;
+	width: 900px;
 	min-height: 373px;
 	background-image: none;
 	border-style: none;
@@ -20,7 +20,7 @@
 	background-color: #F2F2F2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 30px 25px 187px 26px;
+	padding: 30px 34px 187px 26px;
 }
 
 #u205-4
@@ -30,14 +30,14 @@
 	min-height: 23px;
 }
 
-#pu275
+#pu744
 {
 	width: 0.01px;
 	margin-left: 134px;
 	margin-top: 25px;
 }
 
-#u275
+#u744
 {
 	z-index: 25;
 	width: 181px;
@@ -47,7 +47,7 @@
 	margin-top: 6px;
 }
 
-#u281
+#u746
 {
 	z-index: 27;
 	width: 201px;
@@ -57,24 +57,24 @@
 	left: 476px;
 }
 
-#u281_img
+#u746_img
 {
 	padding-right: 1px;
 	padding-bottom: 1px;
 }
 
-#u268-17
+#u748-17
 {
 	z-index: 6;
 	width: 899px;
 	min-height: 253px;
 	background-color: transparent;
-	margin-left: 10px;
-	margin-top: 119px;
+	margin-left: 1px;
+	margin-top: 121px;
 	position: relative;
 }
 
-#u268-2
+#u748-2
 {
 	font-size: 36px;
 	line-height: 43px;
@@ -82,18 +82,18 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u268-3,#u268-6,#u268-7,#u268-9
+#u748-7,#u748-9
 {
 	font-weight: bold;
 }
 
-#u268-4,#u268-5,#u268-10,#u268-11,#u268-13
+#u748-4,#u748-5,#u748-10,#u748-11,#u748-13
 {
 	color: #4D4D4D;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u269
+#u749
 {
 	z-index: 23;
 	width: 289px;
@@ -104,7 +104,7 @@
 	position: relative;
 }
 
-#u269_img
+#u749_img
 {
 	padding-bottom: 1px;
 }

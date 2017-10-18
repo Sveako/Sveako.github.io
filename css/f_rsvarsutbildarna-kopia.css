@@ -1,7 +1,7 @@
-.version.f_rsvarsutbildarna /* version checker */
+.version.f_rsvarsutbildarna_kopia /* version checker */
 {
-	color: #0000FE;
-	background-color: #859EFF;
+	color: #00001F;
+	background-color: #E46463;
 }
 
 .html
@@ -13,12 +13,12 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 821px;
+	min-height: 866px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #F2F2F2;
-	padding-bottom: 179px;
+	padding-bottom: 134px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -33,9 +33,9 @@
 	left: 26px;
 }
 
-#u305-14
+#u760-14
 {
-	z-index: 6;
+	z-index: 8;
 	width: 720px;
 	min-height: 163px;
 	background-color: transparent;
@@ -45,7 +45,7 @@
 	left: 120px;
 }
 
-#u305-2
+#u760-2
 {
 	font-size: 30px;
 	line-height: 36px;
@@ -54,7 +54,7 @@
 	font-weight: bold;
 }
 
-#u305-3,#u305-5,#u305-6
+#u760-3,#u760-5,#u760-6
 {
 	font-size: 18px;
 	line-height: 22px;
@@ -62,33 +62,38 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u305-11
+#u760-11
 {
 	color: #4D4D4D;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u305-7,#u305-8
+#u760-7,#u760-8
 {
 	font-size: 18px;
 	line-height: 22px;
 }
 
-#u305-9
+#u760-9
 {
 	line-height: 17px;
 }
 
-#u1008
+#u761
 {
-	z-index: 20;
+	z-index: 6;
 	width: 704px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 425px;
-	left: 128px;
+	margin-top: 470px;
+	left: 136px;
+}
+
+#u761_img
+{
+	padding-bottom: 1px;
 }
 
 body
@@ -100,6 +105,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -424px;
+	margin-bottom: -469px;
 }
 
