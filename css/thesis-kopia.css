@@ -1,7 +1,7 @@
 .version.thesis_kopia /* version checker */
 {
-	color: #000013;
-	background-color: #F2853D;
+	color: #00001B;
+	background-color: #925961;
 }
 
 .html
@@ -12,15 +12,15 @@
 #page
 {
 	z-index: 1;
-	width: 930px;
-	min-height: 1282.85px;
+	width: 939px;
+	min-height: 1204.7999999999993px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #F2F2F2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 30px 4px 187.1500000000001px 26px;
+	padding: 30px 4px 265.2000000000007px 17px;
 }
 
 #u205-4
@@ -28,39 +28,42 @@
 	z-index: 2;
 	width: 70px;
 	min-height: 23px;
+	margin-left: 9px;
 }
 
 #u783-3
 {
-	z-index: 47;
+	z-index: 28;
 	width: 12px;
 	background-color: transparent;
-	margin-left: 281px;
+	margin-left: 290px;
 	margin-top: 68px;
 	position: relative;
 }
 
-#ppu781-4
+#ppu1032-4
 {
 	width: 0.01px;
+	margin-left: 29px;
+	margin-top: -7px;
 }
 
-#pu781-4
+#pu1032-4
 {
 	width: 0.01px;
 	margin-right: -10000px;
 }
 
-#u781-4
+#u1032-4
 {
-	z-index: 43;
-	width: 409px;
-	min-height: 72px;
+	z-index: 33;
+	width: 166px;
+	min-height: 94px;
 	background-color: transparent;
-	font-size: 30px;
-	line-height: 36px;
+	font-size: 48px;
+	line-height: 58px;
 	color: #4D4D4D;
-	margin-left: 34px;
+	margin-left: 144px;
 	position: relative;
 }
 
@@ -69,74 +72,50 @@
 	z-index: 6;
 	width: 454px;
 	background-color: transparent;
-	margin-top: 43px;
+	top: -7px;
+	margin-bottom: -7px;
 	position: relative;
 }
 
-#u787-5
+#u787-11
 {
 	z-index: 17;
-	width: 425px;
-	min-height: 269px;
+	width: 356px;
+	min-height: 348px;
 	background-color: transparent;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	-khtml-border-radius: 1px;
+	border-radius: 1px;
 	letter-spacing: 1px;
 	color: #4D4D4D;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 87px;
-	left: 488px;
+	margin-top: 47px;
+	left: 497px;
 }
 
 #u787-3
 {
+	font-size: 18px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
 #u787
 {
-	font-size: 18px;
-	line-height: 22px;
+	font-size: 20px;
+	line-height: 24px;
 }
 
 #u787-2
 {
-	line-height: 17px;
+	line-height: 22px;
 }
 
-#pu782-21
-{
-	width: 0.01px;
-	margin-left: 13px;
-	margin-top: 54px;
-}
-
-#u782-21
-{
-	z-index: 22;
-	width: 451px;
-	min-height: 405px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u782-2
+#u787-4,#u787-6,#u787-8
 {
 	font-size: 18px;
 	line-height: 22px;
-	letter-spacing: 1px;
-	color: #4D4D4D;
-}
-
-#u782-11,#u782-16
-{
-	letter-spacing: 1px;
-}
-
-#u782-4,#u782-6,#u782-8,#u782-10,#u782-13,#u782-15,#u782-18
-{
-	letter-spacing: 1px;
-	color: #4D4D4D;
 }
 
 #u784-3
@@ -145,10 +124,16 @@
 	width: 10px;
 	min-height: 7px;
 	background-color: transparent;
+	margin-left: 621px;
+	margin-top: 29px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 212px;
-	left: 619px;
+}
+
+#pu775
+{
+	width: 0.01px;
+	margin-left: 41px;
+	margin-top: -262px;
 }
 
 #u775
@@ -156,10 +141,8 @@
 	z-index: 12;
 	width: 374px;
 	background-color: transparent;
-	margin-left: 539px;
-	top: -955px;
-	margin-bottom: -320px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u779
@@ -167,10 +150,24 @@
 	z-index: 10;
 	width: 449px;
 	background-color: transparent;
-	margin-left: 481px;
-	top: -626px;
-	margin-bottom: -171px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 229px;
+	left: 442px;
+}
+
+#pu785
+{
+	width: 0.01px;
+}
+
+#u785
+{
+	z-index: 31;
+	width: 456px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u773
@@ -178,21 +175,9 @@
 	z-index: 8;
 	width: 456px;
 	background-color: transparent;
-	margin-left: 474px;
-	top: -456px;
-	margin-bottom: -88px;
 	position: relative;
-}
-
-#u785
-{
-	z-index: 50;
-	width: 456px;
-	background-color: transparent;
-	margin-left: 474px;
-	top: -346px;
-	margin-bottom: -342px;
-	position: relative;
+	margin-right: -10000px;
+	left: 483px;
 }
 
 body
