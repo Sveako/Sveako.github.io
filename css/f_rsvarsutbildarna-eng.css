@@ -1,7 +1,7 @@
-.version.f_rsvarsutbildarna_kopia /* version checker */
+.version.f_rsvarsutbildarna_eng /* version checker */
 {
-	color: #00001F;
-	background-color: #E46463;
+	color: #0000E2;
+	background-color: #3CCA47;
 }
 
 .html
@@ -33,7 +33,7 @@
 	left: 26px;
 }
 
-#u760-14
+#u764-14
 {
 	z-index: 8;
 	width: 720px;
@@ -45,7 +45,7 @@
 	left: 120px;
 }
 
-#u760-2
+#u764-2
 {
 	font-size: 30px;
 	line-height: 36px;
@@ -54,7 +54,7 @@
 	font-weight: bold;
 }
 
-#u760-3,#u760-5,#u760-6
+#u764-3,#u764-5,#u764-6
 {
 	font-size: 18px;
 	line-height: 22px;
@@ -62,25 +62,25 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u760-11
+#u764-11
 {
 	color: #4D4D4D;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u760-7,#u760-8
+#u764-7,#u764-8
 {
 	font-size: 18px;
 	line-height: 22px;
 }
 
-#u760-9
+#u764-9
 {
 	line-height: 17px;
 }
 
-#u761
+#u762
 {
 	z-index: 6;
 	width: 704px;
@@ -91,7 +91,7 @@
 	left: 136px;
 }
 
-#u761_img
+#u762_img
 {
 	padding-bottom: 1px;
 }

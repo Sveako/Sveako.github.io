@@ -1,0 +1,123 @@
+.version.web /* version checker */
+{
+	color: #00000C;
+	background-color: #20BD01;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 920px;
+	min-height: 1783px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #F2F2F2;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px 20px 187px;
+}
+
+#u205-4
+{
+	z-index: 2;
+	width: 70px;
+	min-height: 23px;
+	margin-left: 6px;
+}
+
+#u1014
+{
+	z-index: 6;
+	width: 920px;
+	background-color: transparent;
+	margin-top: 50px;
+	position: relative;
+}
+
+#u1020-10
+{
+	z-index: 8;
+	width: 807px;
+	min-height: 80px;
+	background-color: transparent;
+	margin-left: 57px;
+	margin-top: 24px;
+	position: relative;
+}
+
+#u1020-2,#u1020-3
+{
+	color: #4D4D4D;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+}
+
+#u1020-7
+{
+	color: #4D4D4D;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u1020-4,#u1020-5
+{
+	font-weight: bold;
+}
+
+#u1037-4
+{
+	z-index: 18;
+	width: 574px;
+	min-height: 35px;
+	background-color: transparent;
+	font-size: 15px;
+	line-height: 18px;
+	color: #4D4D4D;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	margin-left: 162px;
+	margin-top: 48px;
+	position: relative;
+}
+
+#pu1038
+{
+	width: 0.01px;
+	margin-left: 162px;
+	margin-top: 48px;
+}
+
+#u1038
+{
+	z-index: 22;
+	width: 235px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1044
+{
+	z-index: 24;
+	width: 314px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 324px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

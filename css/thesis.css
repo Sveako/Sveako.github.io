@@ -1,7 +1,7 @@
 .version.thesis /* version checker */
 {
-	color: #000001;
-	background-color: #30231C;
+	color: #0000E3;
+	background-color: #625699;
 }
 
 .html
@@ -12,15 +12,15 @@
 #page
 {
 	z-index: 1;
-	width: 930px;
-	min-height: 1282.85px;
+	width: 924px;
+	min-height: 682px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #F2F2F2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 30px 4px 187.1500000000001px 26px;
+	padding: 30px 13px 187px 23px;
 }
 
 #u205-4
@@ -28,40 +28,74 @@
 	z-index: 2;
 	width: 70px;
 	min-height: 23px;
+	margin-left: 3px;
 }
 
-#u655-3
+#ppu902-3
 {
-	z-index: 47;
-	width: 12px;
+	width: 0.01px;
+	margin-top: 83px;
+}
+
+#pu902-3
+{
+	width: 0.01px;
+	padding-bottom: 1px;
+	margin-right: -10000px;
+	margin-top: 10px;
+}
+
+#u902-3
+{
+	z-index: 19;
+	width: 5px;
 	background-color: transparent;
-	margin-left: 281px;
-	margin-top: 68px;
+	margin-left: 5px;
 	position: relative;
 }
 
-#ppu654-4
+#pu903-4
 {
 	width: 0.01px;
+	margin-top: -9px;
 }
 
-#pu654-4
+#u903-4
 {
-	width: 0.01px;
-	margin-right: -10000px;
-}
-
-#u654-4
-{
-	z-index: 43;
-	width: 409px;
-	min-height: 72px;
+	z-index: 22;
+	width: 430px;
+	min-height: 149px;
 	background-color: transparent;
 	font-size: 30px;
 	line-height: 36px;
 	color: #4D4D4D;
-	margin-left: 34px;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u904-4
+{
+	z-index: 26;
+	width: 410px;
+	min-height: 283px;
+	background-color: transparent;
+	color: #4D4D4D;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 126px;
+}
+
+#ppu334
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 443px;
+}
+
+#pu334
+{
+	width: 0.01px;
+	margin-left: 14px;
 }
 
 #u334
@@ -69,129 +103,92 @@
 	z-index: 6;
 	width: 454px;
 	background-color: transparent;
-	margin-top: 43px;
-	position: relative;
-}
-
-#u652-5
-{
-	z-index: 17;
-	width: 425px;
-	min-height: 269px;
-	background-color: transparent;
-	letter-spacing: 1px;
-	color: #4D4D4D;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 87px;
-	left: 488px;
 }
 
-#u652-3
+#u900-3
 {
+	z-index: 13;
+	width: 5px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 119px;
+	left: 162px;
+}
+
+#u905-25
+{
+	z-index: 30;
+	width: 481px;
+	min-height: 599px;
+	background-color: transparent;
+	margin-top: 54px;
+	position: relative;
+}
+
+#u905-3
+{
+	color: #4D4D4D;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u652
+#u905
 {
-	font-size: 18px;
-	line-height: 22px;
+	font-size: 30px;
+	line-height: 36px;
 }
 
-#u652-2
+#u905-2
 {
 	line-height: 17px;
 }
 
-#pu653-21
+#u905-5,#u905-7,#u905-9,#u905-11,#u905-12,#u905-14,#u905-16,#u905-17,#u905-19
 {
-	width: 0.01px;
-	margin-left: 13px;
-	margin-top: 54px;
+	color: #4D4D4D;
 }
 
-#u653-21
+#u901-3
 {
-	z-index: 22;
-	width: 451px;
-	min-height: 405px;
+	z-index: 16;
+	width: 5px;
 	background-color: transparent;
+	margin-left: 190px;
+	margin-top: 607px;
 	position: relative;
-	margin-right: -10000px;
-}
-
-#u653-2
-{
-	font-size: 18px;
-	line-height: 22px;
-	letter-spacing: 1px;
-	color: #4D4D4D;
-}
-
-#u653-11,#u653-16
-{
-	letter-spacing: 1px;
-}
-
-#u653-4,#u653-6,#u653-8,#u653-10,#u653-13,#u653-15,#u653-18
-{
-	letter-spacing: 1px;
-	color: #4D4D4D;
 }
 
 #u359-3
 {
-	z-index: 14;
+	z-index: 10;
 	width: 10px;
 	min-height: 7px;
 	background-color: transparent;
+	margin-left: 635px;
+	margin-top: 356px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 212px;
-	left: 619px;
 }
 
 #u352
 {
-	z-index: 12;
+	z-index: 8;
 	width: 374px;
 	background-color: transparent;
-	margin-left: 539px;
-	top: -955px;
+	top: -1631px;
 	margin-bottom: -320px;
 	position: relative;
 }
 
-#u346
+#u906
 {
-	z-index: 10;
-	width: 449px;
+	z-index: 55;
+	width: 383px;
 	background-color: transparent;
-	margin-left: 481px;
-	top: -626px;
-	margin-bottom: -171px;
-	position: relative;
-}
-
-#u340
-{
-	z-index: 8;
-	width: 456px;
-	background-color: transparent;
-	margin-left: 474px;
-	top: -456px;
-	margin-bottom: -88px;
-	position: relative;
-}
-
-#u656
-{
-	z-index: 50;
-	width: 456px;
-	background-color: transparent;
-	margin-left: 474px;
-	top: -346px;
-	margin-bottom: -342px;
+	margin-left: 14px;
+	top: -1273px;
+	margin-bottom: -250px;
 	position: relative;
 }
 

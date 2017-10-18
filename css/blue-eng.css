@@ -1,7 +1,7 @@
-.version.namnl_st_10 /* version checker */
+.version.blue_eng /* version checker */
 {
-	color: #000012;
-	background-color: #33060F;
+	color: #00000A;
+	background-color: #04486C;
 }
 
 .html
@@ -13,14 +13,14 @@
 {
 	z-index: 1;
 	width: 778px;
-	min-height: 816px;
+	min-height: 757px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #F2F2F2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 30px 156px 654px 26px;
+	padding: 30px 156px 713px 26px;
 }
 
 #u205-4
@@ -30,7 +30,7 @@
 	min-height: 23px;
 }
 
-#u585-13
+#u866-7
 {
 	z-index: 6;
 	width: 669px;
@@ -42,21 +42,21 @@
 	position: relative;
 }
 
-#u585-2
+#u866-2
 {
 	font-size: 30px;
 	line-height: 36px;
 }
 
-#u585-5,#u585-6,#u585-8,#u585-9,#u585-11
+#u866-5
 {
 	font-size: 18px;
 	line-height: 22px;
 }
 
-#u586
+#u867
 {
-	z-index: 19;
+	z-index: 13;
 	width: 560px;
 	min-height: 319px;
 	border-style: none;

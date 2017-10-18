@@ -1,7 +1,7 @@
-.version.namnl_st_7_kopia /* version checker */
+.version.segehj_lpen_eng /* version checker */
 {
-	color: #0000EA;
-	background-color: #6683DF;
+	color: #00001B;
+	background-color: #78E3F8;
 }
 
 .html
@@ -12,15 +12,15 @@
 #page
 {
 	z-index: 1;
-	width: 911px;
-	min-height: 1040.8995142722413px;
+	width: 899px;
+	min-height: 1284px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #F2F2F2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 30px 23px 429.1004857277587px 26px;
+	padding: 30px 35px 186px 26px;
 }
 
 #u205-4
@@ -30,78 +30,81 @@
 	min-height: 23px;
 }
 
-#pu841-8
+#pu808-15
 {
 	width: 0.01px;
-	margin-left: 27px;
-	margin-top: 124px;
+	margin-left: 76px;
+	margin-top: 78px;
 }
 
-#u841-8
+#u808-15
 {
-	z-index: 6;
-	width: 298px;
-	min-height: 385px;
+	z-index: 10;
+	width: 422px;
+	min-height: 407px;
 	background-color: transparent;
+	color: #4D4D4D;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u841-2,#u841-3
+#u808-2
 {
 	font-size: 30px;
 	line-height: 36px;
-	color: #4D4D4D;
 }
 
-#u841-5
+#u808-4,#u808-5,#u808-7,#u808-8,#u808-10,#u808-11,#u808-13
 {
 	font-size: 18px;
 	line-height: 22px;
-	color: #4D4D4D;
 }
 
-#u837
+#u811
 {
-	z-index: 18;
-	width: 562px;
+	z-index: 6;
+	width: 401px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 12px;
-	left: 322px;
+	left: 422px;
 }
 
-#pu839
+#u813
 {
-	width: 0.01px;
-	margin-left: 3px;
-	margin-top: 51px;
-}
-
-#u839
-{
-	z-index: 16;
-	width: 533px;
+	z-index: 8;
+	width: 510px;
 	background-color: transparent;
+	margin-left: 199px;
+	margin-top: 14px;
 	position: relative;
-	margin-right: -10000px;
 }
 
-#u837_img,#u839_img
+#u815
+{
+	z-index: 27;
+	width: 369px;
+	background-color: transparent;
+	margin-left: 34px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u815_img
 {
 	padding-right: 1px;
+	padding-bottom: 1px;
 }
 
-#u842
+#u809
 {
-	z-index: 14;
-	width: 326px;
+	z-index: 25;
+	width: 389px;
 	background-color: transparent;
+	margin-left: 470px;
+	top: -158px;
+	margin-bottom: -158px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 173px;
-	left: 570px;
 }
 
 body

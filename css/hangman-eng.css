@@ -1,7 +1,7 @@
-.version.hangman_kopia /* version checker */
+.version.hangman_eng /* version checker */
 {
-	color: #0000EF;
-	background-color: #683BFE;
+	color: #0000EC;
+	background-color: #E6A2A1;
 }
 
 .html
@@ -30,7 +30,7 @@
 	min-height: 23px;
 }
 
-#u853-6
+#u848-6
 {
 	z-index: 7;
 	width: 766px;
@@ -42,19 +42,19 @@
 	position: relative;
 }
 
-#u853-2
+#u848-2
 {
 	font-size: 30px;
 	line-height: 36px;
 }
 
-#u853-4
+#u848-4
 {
 	font-size: 18px;
 	line-height: 22px;
 }
 
-#u851
+#u846
 {
 	z-index: 6;
 	width: 560px;

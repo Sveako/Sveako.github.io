@@ -217,19 +217,37 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Nyportfolio.se/images/mobile23.jpg</loc>
+    <loc>http://Nyportfolio.se/images/img_20170329_140733-crop-u776.jpg</loc>
     <lastmod>2017-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Nyportfolio.se/images/u935-4.png</loc>
+    <loc>http://Nyportfolio.se/images/u940-4.png</loc>
     <lastmod>2017-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Nyportfolio.se/images/v10-crop-u941.jpg</loc>
+    <loc>http://Nyportfolio.se/images/v10-crop-u969.jpg</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/images/namnl%C3%B6st-2.jpg</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/images/v10.jpg</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/images/clockworkloans.png</loc>
     <lastmod>2017-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -271,25 +289,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Nyportfolio.se/namnl%C3%B6st-7.html</loc>
-    <lastmod>2017-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://Nyportfolio.se/hangman.html</loc>
-    <lastmod>2017-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Nyportfolio.se/namnl%C3%B6st-9.html</loc>
-    <lastmod>2017-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Nyportfolio.se/namnl%C3%B6st-10.html</loc>
     <lastmod>2017-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -301,67 +301,91 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Nyportfolio.se/donera-kopia.html</loc>
-    <lastmod>2017-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Nyportfolio.se/f%C3%B6rsvarsutbildarna-kopia.html</loc>
-    <lastmod>2017-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Nyportfolio.se/thesis-kopia.html</loc>
-    <lastmod>2017-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Nyportfolio.se/roll-kopia.html</loc>
-    <lastmod>2017-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Nyportfolio.se/segehj%C3%A4lpen-kopia.html</loc>
-    <lastmod>2017-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Nyportfolio.se/namnl%C3%B6st-7-kopia.html</loc>
-    <lastmod>2017-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Nyportfolio.se/hangman-kopia.html</loc>
-    <lastmod>2017-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Nyportfolio.se/namnl%C3%B6st-9-kopia.html</loc>
-    <lastmod>2017-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Nyportfolio.se/namnl%C3%B6st-10-kopia.html</loc>
-    <lastmod>2017-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://Nyportfolio.se/3d-kopia.html</loc>
     <lastmod>2017-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Nyportfolio.se/hem-english-kopia.html</loc>
+    <loc>http://Nyportfolio.se/survey.html</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/orbit.html</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/blue.html</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/donera-eng.html</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/f%C3%B6rsvarsutbildarna-eng.html</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/thesis-eng.html</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/roll-eng.html</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/segehj%C3%A4lpen-eng.html</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/survey-eng.html</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/hangman-eng.html</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/orbit-eng.html</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/blue-eng.html</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/home.html</loc>
+    <lastmod>2017-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Nyportfolio.se/web.html</loc>
     <lastmod>2017-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

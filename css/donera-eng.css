@@ -1,7 +1,7 @@
-.version.donera_kopia /* version checker */
+.version.donera_eng /* version checker */
 {
 	color: #0000E4;
-	background-color: #68D943;
+	background-color: #F36C26;
 }
 
 .html
@@ -30,14 +30,14 @@
 	min-height: 23px;
 }
 
-#pu744
+#pu749
 {
 	width: 0.01px;
 	margin-left: 134px;
 	margin-top: 25px;
 }
 
-#u744
+#u749
 {
 	z-index: 25;
 	width: 181px;
@@ -47,7 +47,7 @@
 	margin-top: 6px;
 }
 
-#u746
+#u745
 {
 	z-index: 27;
 	width: 201px;
@@ -57,13 +57,13 @@
 	left: 476px;
 }
 
-#u746_img
+#u745_img
 {
 	padding-right: 1px;
 	padding-bottom: 1px;
 }
 
-#u748-17
+#u751-17
 {
 	z-index: 6;
 	width: 899px;
@@ -74,7 +74,7 @@
 	position: relative;
 }
 
-#u748-2
+#u751-2
 {
 	font-size: 36px;
 	line-height: 43px;
@@ -82,18 +82,18 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u748-7,#u748-9
+#u751-7,#u751-9
 {
 	font-weight: bold;
 }
 
-#u748-4,#u748-5,#u748-10,#u748-11,#u748-13
+#u751-4,#u751-5,#u751-10,#u751-11,#u751-13
 {
 	color: #4D4D4D;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u749
+#u747
 {
 	z-index: 23;
 	width: 289px;
@@ -104,7 +104,7 @@
 	position: relative;
 }
 
-#u749_img
+#u747_img
 {
 	padding-bottom: 1px;
 }

@@ -1,7 +1,7 @@
-.version.roll_kopia /* version checker */
+.version.roll_eng /* version checker */
 {
-	color: #000019;
-	background-color: #79011D;
+	color: #0000E6;
+	background-color: #8A3ADF;
 }
 
 .html
@@ -20,7 +20,7 @@
 	background-color: #F2F2F2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 30px 20px 215px;
+	padding: 30px 26px 215px 14px;
 }
 
 #u205-4
@@ -28,54 +28,49 @@
 	z-index: 2;
 	width: 70px;
 	min-height: 23px;
-	margin-left: 6px;
+	margin-left: 12px;
 }
 
-#u803
+#u915
 {
-	z-index: 6;
+	z-index: 18;
 	width: 920px;
 	background-color: transparent;
-	margin-top: 103px;
+	margin-top: 95px;
 	position: relative;
 }
 
-#u803_img
+#u801-10
 {
-	padding-right: 1px;
-}
-
-#u800-10
-{
-	z-index: 8;
+	z-index: 6;
 	width: 898px;
 	min-height: 135px;
 	background-color: transparent;
-	margin-left: 5px;
-	margin-top: 91px;
+	margin-left: 11px;
+	margin-top: 99px;
 	position: relative;
 }
 
-#u800-2
+#u801-2
 {
 	font-size: 30px;
 	line-height: 36px;
 	color: #4D4D4D;
 }
 
-#u800-4,#u800-5,#u800-7
+#u801-4,#u801-5,#u801-7
 {
 	font-size: 18px;
 	line-height: 22px;
 	color: #4D4D4D;
 }
 
-#u801
+#u797
 {
-	z-index: 18;
+	z-index: 16;
 	width: 513px;
 	background-color: transparent;
-	margin-left: 197px;
+	margin-left: 203px;
 	margin-top: 14px;
 	position: relative;
 }

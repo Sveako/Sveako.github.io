@@ -1,7 +1,7 @@
 .version.donera /* version checker */
 {
-	color: #000012;
-	background-color: #2C90BA;
+	color: #0000FA;
+	background-color: #36F695;
 }
 
 .html
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	width: 909px;
+	width: 900px;
 	min-height: 373px;
 	background-image: none;
 	border-style: none;
@@ -20,7 +20,7 @@
 	background-color: #F2F2F2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 30px 25px 187px 26px;
+	padding: 30px 34px 187px 26px;
 }
 
 #u205-4
@@ -39,7 +39,7 @@
 
 #u275
 {
-	z-index: 25;
+	z-index: 28;
 	width: 181px;
 	background-color: transparent;
 	position: relative;
@@ -49,7 +49,7 @@
 
 #u281
 {
-	z-index: 27;
+	z-index: 30;
 	width: 201px;
 	background-color: transparent;
 	position: relative;
@@ -63,14 +63,14 @@
 	padding-bottom: 1px;
 }
 
-#u268-17
+#u268-20
 {
 	z-index: 6;
 	width: 899px;
 	min-height: 253px;
 	background-color: transparent;
-	margin-left: 10px;
-	margin-top: 119px;
+	margin-left: 1px;
+	margin-top: 121px;
 	position: relative;
 }
 
@@ -82,12 +82,7 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u268-3,#u268-6,#u268-7,#u268-9
-{
-	font-weight: bold;
-}
-
-#u268-4,#u268-5,#u268-10,#u268-11,#u268-13
+#u268-4,#u268-5,#u268-7,#u268-8,#u268-13,#u268-14,#u268-16
 {
 	color: #4D4D4D;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -95,7 +90,7 @@
 
 #u269
 {
-	z-index: 23;
+	z-index: 26;
 	width: 289px;
 	background-color: transparent;
 	margin-left: 315px;

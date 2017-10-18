@@ -1,7 +1,7 @@
 .version._3d_kopia /* version checker */
 {
-	color: #0000FA;
-	background-color: #262DF7;
+	color: #0000FF;
+	background-color: #85F8B4;
 }
 
 .html
@@ -30,7 +30,7 @@
 	min-height: 23px;
 }
 
-#u886-4
+#u880-4
 {
 	z-index: 12;
 	width: 676px;
@@ -43,7 +43,7 @@
 	position: relative;
 }
 
-#u882
+#u878
 {
 	z-index: 6;
 	width: 881px;
@@ -53,12 +53,12 @@
 	position: relative;
 }
 
-#u882_img
+#u878_img
 {
 	padding-right: 1px;
 }
 
-#u880
+#u876
 {
 	z-index: 10;
 	width: 881px;
@@ -68,7 +68,7 @@
 	position: relative;
 }
 
-#u884
+#u874
 {
 	z-index: 8;
 	width: 881px;
