@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1508318266688">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1508318471771">
   <folder name="css">
     <file name="site_global.css" crc="70293575"/>
     <file name="master_b-mallsida.css" crc="4197021794" ref="försvarsutbildarna:3d:donera:roll:namnlöst-9:namnlöst-10:segehjälpen:thesis:namnlöst-7:hangman:namnlöst-10-kopia:försvarsutbildarna-kopia:segehjälpen-kopia:hangman-kopia:roll-kopia:namnlöst-9-kopia:donera-kopia:namnlöst-7-kopia:thesis-kopia:3d-kopia"/>
@@ -35,7 +35,7 @@
     <file name="namnlöst-1.png" crc="3858826596" ref="index:hem-english-kopia"/>
     <file name="pil.png" crc="3978922964" ref="index:hem-english-kopia"/>
     <file name="u166-4.png" crc="4290242063" ref="index"/>
-    <file name="donera.png" crc="374705516" ref="index:hem-english-kopia"/>
+    <file name="donera.png" crc="3871586205" ref="index:hem-english-kopia:donera"/>
     <file name="försvarsutbildarna.png" crc="3872963065" ref="index:hem-english-kopia"/>
     <file name="funktionen.jpg" crc="112606995" ref="index:hem-english-kopia"/>
     <file name="mobile2.jpg" crc="4013608290" ref="index:hem-english-kopia"/>
@@ -48,7 +48,7 @@
     <file name="v10-crop-u238.jpg" crc="501025522" ref="index"/>
     <file name="rjgfpahgi9afegiarjgherajhgåaj0haj.png" crc="114655608" ref="donera:donera-kopia"/>
     <file name="donerat.jpg" crc="4240859750" ref="donera:donera-kopia"/>
-    <file name="donera2.png" crc="3871586205" ref="donera:donera-kopia"/>
+    <file name="donera2.png" crc="3871586205" ref="donera-kopia"/>
     <file name="försvarsutbildarna2.png" crc="439336428" ref="försvarsutbildarna"/>
     <file name="asoifhioa.jpg" crc="4257417662" ref="thesis:thesis-kopia"/>
     <file name="d29a3be9703af29c01a4d802db759c65.jpg" crc="409957954" ref="thesis:thesis-kopia"/>
@@ -73,7 +73,7 @@
     <file name="v10-crop-u941.jpg" crc="501025522" ref="hem-english-kopia"/>
   </folder>
   <file name="index.html" crc="4189584272" mt="1508314624713" redirect="true"/>
-  <file name="donera.html" crc="3776909037" mt="1508315079368" redirect="true"/>
+  <file name="donera.html" crc="376700410" mt="1508318459545" redirect="true"/>
   <file name="försvarsutbildarna.html" crc="4278618842" mt="1508315166335" redirect="true"/>
   <file name="thesis.html" crc="46521528" mt="1508317954305" redirect="true"/>
   <file name="roll.html" crc="238131419" mt="1508315623482" redirect="true"/>
