@@ -1,7 +1,7 @@
 .version.orbit /* version checker */
 {
-	color: #00000E;
-	background-color: #B6DE63;
+	color: #0000FC;
+	background-color: #4B5BE3;
 }
 
 .html
@@ -30,7 +30,7 @@
 	min-height: 23px;
 }
 
-#u573-33
+#u573-32
 {
 	z-index: 6;
 	width: 882px;
@@ -48,7 +48,7 @@
 	color: #4D4D4D;
 }
 
-#u573-4,#u573-5,#u573-7,#u573-9,#u573-10,#u573-11,#u573-12,#u573-17,#u573-18,#u573-19,#u573-21,#u573-23,#u573-24,#u573-26,#u573-28
+#u573-4,#u573-5,#u573-7,#u573-9,#u573-10,#u573-11,#u573-16,#u573-17,#u573-18,#u573-20,#u573-22,#u573-23,#u573-25,#u573-27
 {
 	font-size: 18px;
 	line-height: 22px;
@@ -64,7 +64,7 @@
 
 #u576
 {
-	z-index: 39;
+	z-index: 38;
 	width: 560px;
 	min-height: 319px;
 	border-style: none;
@@ -76,7 +76,7 @@
 
 #u578-3
 {
-	z-index: 40;
+	z-index: 39;
 	width: 5px;
 	background-color: transparent;
 	position: relative;

@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1508942552044">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1510744390407">
   <folder name="css">
     <file name="site_global.css" crc="100240680"/>
     <file name="master_b-mallsida.css" crc="4197021794" ref="försvarsutbildarna:3d:donera:roll:segehjälpen:thesis:hangman:3d-kopia:donera-eng:hangman-eng:orbit-eng:survey-eng:web:blue:roll-eng:orbit:thesis-eng:blue-eng:försvarsutbildarna-eng:segehjälpen-eng:survey"/>
@@ -15,11 +15,11 @@
     <file name="hangman-eng.css" crc="3974537889" ref="hangman-eng"/>
     <file name="orbit-eng.css" crc="214472923" ref="orbit-eng"/>
     <file name="survey-eng.css" crc="4050773066" ref="survey-eng"/>
-    <file name="web.css" crc="203472129" ref="web"/>
-    <file name="home.css" crc="130959640" ref="home"/>
+    <file name="web.css" crc="437202300" ref="web"/>
+    <file name="home.css" crc="3990757088" ref="home"/>
     <file name="blue.css" crc="4128002528" ref="blue"/>
     <file name="roll-eng.css" crc="3867818719" ref="roll-eng"/>
-    <file name="orbit.css" crc="246865507" ref="orbit"/>
+    <file name="orbit.css" crc="4232797155" ref="orbit"/>
     <file name="thesis-eng.css" crc="515677782" ref="thesis-eng"/>
     <file name="blue-eng.css" crc="168052844" ref="blue-eng"/>
     <file name="f_rsvarsutbildarna-eng.css" crc="3795634759" ref="försvarsutbildarna-eng"/>
@@ -37,11 +37,11 @@
     <file name="pil.png" crc="3978922964" ref="index:home"/>
     <file name="u166-4.png" crc="4290242063" ref="index"/>
     <file name="donera.png" crc="374705516" ref="index:home"/>
-    <file name="försvarsutbildarna.png" crc="3872963065" ref="index:home"/>
+    <file name="försvarsutbildarna.png" crc="3872963065" ref="index:försvarsutbildarna-eng"/>
     <file name="funktionen.jpg" crc="112606995" ref="index:home"/>
     <file name="mobile2.jpg" crc="4013608290" ref="index:home"/>
     <file name="mockup_menu.png" crc="4256026840" ref="index:home"/>
-    <file name="rp9rjgkq5yvtd0afqki6n2zbxikkxs_u9zvxufqvejuoq3mw81vucb97wkrbqkaaaxketa=s2048230x198.jpg" crc="41649116" ref="index"/>
+    <file name="rp9rjgkq5yvtd0afqki6n2zbxikkxs_u9zvxufqvejuoq3mw81vucb97wkrbqkaaaxketa=s2048230x198.jpg" crc="41649116" ref="index:home"/>
     <file name="dfdfdfdf.jpg" crc="4238367383" ref="index:home"/>
     <file name="img_1142.jpg" crc="70332742" ref="index:home"/>
     <file name="rum_edit.jpg" crc="164587485" ref="index:home"/>
@@ -50,7 +50,7 @@
     <file name="rjgfpahgi9afegiarjgherajhgåaj0haj.png" crc="114655608" ref="donera:donera-eng"/>
     <file name="donerat.jpg" crc="4240859750" ref="donera:donera-eng"/>
     <file name="donera2.png" crc="3871586205" ref="donera:donera-eng"/>
-    <file name="försvarsutbildarna2.png" crc="439336428" ref="försvarsutbildarna"/>
+    <file name="försvarsutbildarna2.png" crc="3872963065" ref="försvarsutbildarna:home"/>
     <file name="asoifhioa.jpg" crc="4257417662" ref="thesis:thesis-eng"/>
     <file name="d29a3be9703af29c01a4d802db759c65.jpg" crc="409957954" ref="thesis:thesis-eng"/>
     <file name="tidsplan1.jpg" crc="311163781" ref="thesis-eng"/>
@@ -68,7 +68,6 @@
     <file name="dfasdgasdg.jpg" crc="360146454" ref="3d:3d-kopia"/>
     <file name="trsjnz.jpg" crc="461918319" ref="3d:3d-kopia"/>
     <file name="img_20170329_140733.jpg" crc="191384048" ref="thesis"/>
-    <file name="försvarsutbildarna3.png" crc="3872963065" ref="försvarsutbildarna-eng"/>
     <file name="img_20170329_140733-crop-u776.jpg" crc="139179835" ref="thesis-eng"/>
     <file name="u940-4.png" crc="4290242063" ref="home"/>
     <file name="v10-crop-u969.jpg" crc="501025522" ref="home"/>
@@ -82,21 +81,21 @@
   <file name="thesis.html" crc="3789501585" mt="1508336775565" redirect="true"/>
   <file name="roll.html" crc="3870325203" mt="1508942227436" redirect="true"/>
   <file name="segehjälpen.html" crc="3856682691" mt="1508336775566" redirect="true"/>
-  <file name="hangman.html" crc="4210159060" mt="1508942435019" redirect="true"/>
+  <file name="hangman.html" crc="462097753" mt="1510743737532" redirect="true"/>
   <file name="3d.html" crc="246446319" mt="1508942524853" redirect="true"/>
   <file name="3d-kopia.html" crc="3937464585" mt="1508336775572" redirect="true"/>
   <file name="survey.html" crc="210573835" mt="1508942401331" redirect="true"/>
-  <file name="orbit.html" crc="292761642" mt="1508336775568" redirect="true"/>
-  <file name="blue.html" crc="4238641138" mt="1508942505944" redirect="true"/>
+  <file name="orbit.html" crc="236230145" mt="1510744170322" redirect="true"/>
+  <file name="blue.html" crc="41206595" mt="1510744234198" redirect="true"/>
   <file name="donera-eng.html" crc="122427566" mt="1508336775569" redirect="true"/>
-  <file name="försvarsutbildarna-eng.html" crc="387904234" mt="1508336775569" redirect="true"/>
-  <file name="thesis-eng.html" crc="245849247" mt="1508336775570" redirect="true"/>
+  <file name="försvarsutbildarna-eng.html" crc="4126147117" mt="1510743488170" redirect="true"/>
+  <file name="thesis-eng.html" crc="3959131857" mt="1510743599025" redirect="true"/>
   <file name="roll-eng.html" crc="4292653332" mt="1508336775570" redirect="true"/>
   <file name="segehjälpen-eng.html" crc="156536953" mt="1508336775571" redirect="true"/>
   <file name="survey-eng.html" crc="3941925476" mt="1508336775571" redirect="true"/>
   <file name="hangman-eng.html" crc="3852416590" mt="1508336775571" redirect="true"/>
   <file name="orbit-eng.html" crc="4077762413" mt="1508336775572" redirect="true"/>
   <file name="blue-eng.html" crc="216656438" mt="1508336775572" redirect="true"/>
-  <file name="home.html" crc="3818168086" mt="1508336775544" redirect="true"/>
-  <file name="web.html" crc="38531635" mt="1508338323133" redirect="true"/>
+  <file name="home.html" crc="80962426" mt="1510743317641" redirect="true"/>
+  <file name="web.html" crc="136075476" mt="1510744348531" redirect="true"/>
 </manifest>
