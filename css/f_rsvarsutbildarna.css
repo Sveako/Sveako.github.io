@@ -1,7 +1,7 @@
 .version.f_rsvarsutbildarna /* version checker */
 {
-	color: #00000E;
-	background-color: #F3DFDF;
+	color: #00000F;
+	background-color: #93E0F6;
 }
 
 .html
@@ -12,15 +12,15 @@
 #page
 {
 	z-index: 1;
-	width: 831px;
-	min-height: 816px;
+	width: 920px;
+	min-height: 721px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #F2F2F2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 30px 103px 154px 26px;
+	padding: 30px 20px 249px;
 }
 
 #u205-4
@@ -28,17 +28,23 @@
 	z-index: 2;
 	width: 70px;
 	min-height: 23px;
+	margin-left: 6px;
+}
+
+#pu305-14
+{
+	width: 0.01px;
+	margin-top: 476px;
 }
 
 #u305-14
 {
 	z-index: 6;
-	width: 720px;
+	width: 920px;
 	min-height: 163px;
 	background-color: transparent;
-	margin-left: 94px;
-	margin-top: 117px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u305-2
@@ -46,7 +52,7 @@
 	font-size: 30px;
 	line-height: 36px;
 	color: #4D4D4D;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 }
 
@@ -55,13 +61,13 @@
 	font-size: 18px;
 	line-height: 22px;
 	color: #4D4D4D;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
 }
 
 #u305-11
 {
 	color: #4D4D4D;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
@@ -76,13 +82,6 @@
 	line-height: 17px;
 }
 
-#pu887-3
-{
-	width: 0.01px;
-	margin-left: 343px;
-	margin-top: 280px;
-}
-
 #u887-3
 {
 	z-index: 20;
@@ -91,23 +90,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-}
-
-#u891-3
-{
-	z-index: 32;
-	width: 5px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 18px;
-	left: 201px;
-}
-
-#pu888-3
-{
-	width: 0.01px;
-	margin-left: 498px;
+	margin-top: 128px;
+	left: 349px;
 }
 
 #u888-3
@@ -118,6 +102,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 164px;
+	left: 504px;
 }
 
 #u889-3
@@ -127,8 +113,19 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 4px;
-	left: 38px;
+	margin-top: 168px;
+	left: 542px;
+}
+
+#u891-3
+{
+	z-index: 32;
+	width: 5px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 146px;
+	left: 549px;
 }
 
 #u890-3
@@ -136,8 +133,9 @@
 	z-index: 29;
 	width: 103px;
 	background-color: transparent;
-	margin-left: 728px;
-	margin-top: 14px;
+	margin-left: 734px;
+	top: -8px;
+	margin-bottom: -8px;
 	position: relative;
 }
 
@@ -146,9 +144,9 @@
 	z-index: 35;
 	width: 704px;
 	background-color: transparent;
-	margin-left: 102px;
-	top: -279px;
-	margin-bottom: -279px;
+	margin-left: 82px;
+	top: -633px;
+	margin-bottom: -396px;
 	position: relative;
 }
 

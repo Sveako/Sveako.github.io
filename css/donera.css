@@ -1,7 +1,7 @@
 .version.donera /* version checker */
 {
-	color: #0000FA;
-	background-color: #36F695;
+	color: #0000ED;
+	background-color: #94DD82;
 }
 
 .html
@@ -39,7 +39,7 @@
 
 #u275
 {
-	z-index: 28;
+	z-index: 26;
 	width: 181px;
 	background-color: transparent;
 	position: relative;
@@ -49,7 +49,7 @@
 
 #u281
 {
-	z-index: 30;
+	z-index: 28;
 	width: 201px;
 	background-color: transparent;
 	position: relative;
@@ -63,12 +63,14 @@
 	padding-bottom: 1px;
 }
 
-#u268-20
+#u268-18
 {
 	z-index: 6;
 	width: 899px;
 	min-height: 253px;
 	background-color: transparent;
+	color: #4D4D4D;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 1px;
 	margin-top: 121px;
 	position: relative;
@@ -78,19 +80,24 @@
 {
 	font-size: 36px;
 	line-height: 43px;
-	color: #4D4D4D;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u268-4,#u268-5,#u268-7,#u268-8,#u268-13,#u268-14,#u268-16
+#u268-4
 {
-	color: #4D4D4D;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight: bold;
+}
+
+#u268-5,#u268-7,#u268-8,#u268-10,#u268-11,#u268-16
+{
+	font-size: 12px;
+	line-height: 14px;
 }
 
 #u269
 {
-	z-index: 26;
+	z-index: 24;
 	width: 289px;
 	background-color: transparent;
 	margin-left: 315px;

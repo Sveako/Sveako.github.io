@@ -1,7 +1,7 @@
 .version._3d_kopia /* version checker */
 {
-	color: #0000FF;
-	background-color: #85F8B4;
+	color: #0000F1;
+	background-color: #CFF874;
 }
 
 .html
@@ -36,8 +36,8 @@
 	width: 676px;
 	min-height: 45px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	margin-left: 116px;
 	margin-top: 140px;
 	position: relative;

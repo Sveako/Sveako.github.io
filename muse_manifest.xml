@@ -1,25 +1,75 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1510744390407">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1558781474204">
+  <folder name="phone">
+    <folder name="css">
+      <file name="web.css" crc="3983100209" ref="phone>web"/>
+      <file name="thesis.css" crc="3983100209" ref="phone>thesis"/>
+      <file name="3d.css" crc="3983100209" ref="phone>3d"/>
+      <file name="roll.css" crc="3983100209" ref="phone>roll"/>
+      <file name="donera.css" crc="3983100209" ref="phone>donera"/>
+      <file name="thesis-eng.css" crc="3983100209" ref="phone>thesis-eng"/>
+      <file name="segehj_lpen.css" crc="3983100209" ref="phone>segehjälpen"/>
+      <file name="home.css" crc="387613945" ref="phone>home"/>
+      <file name="orbit-eng.css" crc="3983100209" ref="phone>orbit-eng"/>
+      <file name="survey-eng.css" crc="3983100209" ref="phone>survey-eng"/>
+      <file name="index.css" crc="2024779" ref="phone>index"/>
+      <file name="roll-eng.css" crc="3983100209" ref="phone>roll-eng"/>
+      <file name="3d-kopia.css" crc="3983100209" ref="phone>3d-kopia"/>
+      <file name="f_rsvarsutbildarna.css" crc="3983100209" ref="phone>försvarsutbildarna"/>
+      <file name="hangman.css" crc="3983100209" ref="phone>hangman"/>
+      <file name="survey.css" crc="3983100209" ref="phone>survey"/>
+      <file name="donera-eng.css" crc="3983100209" ref="phone>donera-eng"/>
+      <file name="hangman-eng.css" crc="3983100209" ref="phone>hangman-eng"/>
+      <file name="orbit.css" crc="3983100209" ref="phone>orbit"/>
+      <file name="f_rsvarsutbildarna-eng.css" crc="3983100209" ref="phone>försvarsutbildarna-eng"/>
+      <file name="segehj_lpen-eng.css" crc="3983100209" ref="phone>segehjälpen-eng"/>
+      <file name="blue.css" crc="3983100209" ref="phone>blue"/>
+      <file name="blue-eng.css" crc="3983100209" ref="phone>blue-eng"/>
+    </folder>
+    <file name="index.html" crc="232339174" mt="1558781346602" redirect="true"/>
+    <file name="donera.html" crc="175955041" mt="1558781280138" redirect="false"/>
+    <file name="försvarsutbildarna.html" crc="4010289328" mt="1558781280138" redirect="false"/>
+    <file name="thesis.html" crc="126722444" mt="1558781280139" redirect="false"/>
+    <file name="roll.html" crc="430460105" mt="1558781280139" redirect="false"/>
+    <file name="segehjälpen.html" crc="295933807" mt="1558781280139" redirect="false"/>
+    <file name="survey.html" crc="3972628527" mt="1558781280140" redirect="false"/>
+    <file name="hangman.html" crc="60525405" mt="1558781280140" redirect="false"/>
+    <file name="orbit.html" crc="71115445" mt="1558781280140" redirect="false"/>
+    <file name="blue.html" crc="3918756807" mt="1558781280141" redirect="false"/>
+    <file name="3d.html" crc="4178862242" mt="1558781280141" redirect="false"/>
+    <file name="web.html" crc="203838708" mt="1558781280141" redirect="false"/>
+    <file name="home.html" crc="4202909126" mt="1558781280128" redirect="false"/>
+    <file name="donera-eng.html" crc="79322266" mt="1558781280142" redirect="false"/>
+    <file name="försvarsutbildarna-eng.html" crc="468984844" mt="1558781280142" redirect="false"/>
+    <file name="thesis-eng.html" crc="4206643662" mt="1558781280142" redirect="false"/>
+    <file name="roll-eng.html" crc="4157093993" mt="1558781280143" redirect="false"/>
+    <file name="segehjälpen-eng.html" crc="158202399" mt="1558781280143" redirect="false"/>
+    <file name="survey-eng.html" crc="500982828" mt="1558781280143" redirect="false"/>
+    <file name="hangman-eng.html" crc="4157860140" mt="1558781280144" redirect="false"/>
+    <file name="orbit-eng.html" crc="4083069564" mt="1558781280144" redirect="false"/>
+    <file name="blue-eng.html" crc="487078028" mt="1558781280145" redirect="false"/>
+    <file name="3d-kopia.html" crc="3774770760" mt="1558781280145" redirect="false"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="100240680"/>
+    <file name="site_global.css" crc="3942360053"/>
     <file name="master_b-mallsida.css" crc="4197021794" ref="försvarsutbildarna:3d:donera:roll:segehjälpen:thesis:hangman:3d-kopia:donera-eng:hangman-eng:orbit-eng:survey-eng:web:blue:roll-eng:orbit:thesis-eng:blue-eng:försvarsutbildarna-eng:segehjälpen-eng:survey"/>
-    <file name="f_rsvarsutbildarna.css" crc="250863583" ref="försvarsutbildarna"/>
-    <file name="index.css" crc="103805963" ref="index"/>
-    <file name="3d.css" crc="4172032883" ref="3d"/>
-    <file name="donera.css" crc="4197906069" ref="donera"/>
-    <file name="roll.css" crc="356248859" ref="roll"/>
-    <file name="segehj_lpen.css" crc="3902708804" ref="segehjälpen"/>
-    <file name="thesis.css" crc="3814872729" ref="thesis"/>
-    <file name="hangman.css" crc="183293277" ref="hangman"/>
-    <file name="3d-kopia.css" crc="4286970036" ref="3d-kopia"/>
+    <file name="f_rsvarsutbildarna.css" crc="261349622" ref="försvarsutbildarna"/>
+    <file name="index.css" crc="76254166" ref="index"/>
+    <file name="3d.css" crc="501174259" ref="3d"/>
+    <file name="donera.css" crc="3985956226" ref="donera"/>
+    <file name="roll.css" crc="4030351506" ref="roll"/>
+    <file name="segehj_lpen.css" crc="4017705353" ref="segehjälpen"/>
+    <file name="thesis.css" crc="508303369" ref="thesis"/>
+    <file name="hangman.css" crc="4064449099" ref="hangman"/>
+    <file name="3d-kopia.css" crc="4056938612" ref="3d-kopia"/>
     <file name="donera-eng.css" crc="3841158182" ref="donera-eng"/>
     <file name="hangman-eng.css" crc="3974537889" ref="hangman-eng"/>
     <file name="orbit-eng.css" crc="214472923" ref="orbit-eng"/>
     <file name="survey-eng.css" crc="4050773066" ref="survey-eng"/>
-    <file name="web.css" crc="437202300" ref="web"/>
-    <file name="home.css" crc="3990757088" ref="home"/>
+    <file name="web.css" crc="3908130627" ref="web"/>
+    <file name="home.css" crc="4122221661" ref="home"/>
     <file name="blue.css" crc="4128002528" ref="blue"/>
     <file name="roll-eng.css" crc="3867818719" ref="roll-eng"/>
-    <file name="orbit.css" crc="4232797155" ref="orbit"/>
+    <file name="orbit.css" crc="4246743698" ref="orbit"/>
     <file name="thesis-eng.css" crc="515677782" ref="thesis-eng"/>
     <file name="blue-eng.css" crc="168052844" ref="blue-eng"/>
     <file name="f_rsvarsutbildarna-eng.css" crc="3795634759" ref="försvarsutbildarna-eng"/>
@@ -27,21 +77,21 @@
     <file name="survey.css" crc="132116289" ref="survey"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:donera:försvarsutbildarna:thesis:roll:segehjälpen:hangman:3d:3d-kopia:survey:orbit:blue:donera-eng:försvarsutbildarna-eng:thesis-eng:roll-eng:segehjälpen-eng:survey-eng:hangman-eng:orbit-eng:blue-eng:home:web"/>
-    <file name="museutils.js" crc="4136605575" ref="index:donera:försvarsutbildarna:thesis:roll:segehjälpen:hangman:3d:3d-kopia:survey:orbit:blue:donera-eng:försvarsutbildarna-eng:thesis-eng:roll-eng:segehjälpen-eng:survey-eng:hangman-eng:orbit-eng:blue-eng:home:web"/>
-    <file name="pie.js" crc="3827607177" ref="index:home"/>
-    <file name="jquery.watch.js" crc="172956391" ref="index:donera:försvarsutbildarna:thesis:roll:segehjälpen:hangman:3d:3d-kopia:survey:orbit:blue:donera-eng:försvarsutbildarna-eng:thesis-eng:roll-eng:segehjälpen-eng:survey-eng:hangman-eng:orbit-eng:blue-eng:home:web"/>
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:donera:försvarsutbildarna:thesis:roll:segehjälpen:hangman:3d:3d-kopia:survey:orbit:blue:donera-eng:försvarsutbildarna-eng:thesis-eng:roll-eng:segehjälpen-eng:survey-eng:hangman-eng:orbit-eng:blue-eng:home:web:phone>index:phone>donera:phone>försvarsutbildarna:phone>thesis:phone>roll:phone>segehjälpen:phone>survey:phone>hangman:phone>orbit:phone>blue:phone>3d:phone>web:phone>home:phone>donera-eng:phone>försvarsutbildarna-eng:phone>thesis-eng:phone>roll-eng:phone>segehjälpen-eng:phone>survey-eng:phone>hangman-eng:phone>orbit-eng:phone>blue-eng:phone>3d-kopia"/>
+    <file name="museutils.js" crc="4136605575" ref="index:donera:försvarsutbildarna:thesis:roll:segehjälpen:hangman:3d:3d-kopia:survey:orbit:blue:donera-eng:försvarsutbildarna-eng:thesis-eng:roll-eng:segehjälpen-eng:survey-eng:hangman-eng:orbit-eng:blue-eng:home:web:phone>index:phone>donera:phone>försvarsutbildarna:phone>thesis:phone>roll:phone>segehjälpen:phone>survey:phone>hangman:phone>orbit:phone>blue:phone>3d:phone>web:phone>home:phone>donera-eng:phone>försvarsutbildarna-eng:phone>thesis-eng:phone>roll-eng:phone>segehjälpen-eng:phone>survey-eng:phone>hangman-eng:phone>orbit-eng:phone>blue-eng:phone>3d-kopia"/>
+    <file name="pie.js" crc="3827607177" ref="index:home:phone>index:phone>home"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index:donera:försvarsutbildarna:thesis:roll:segehjälpen:hangman:3d:3d-kopia:survey:orbit:blue:donera-eng:försvarsutbildarna-eng:thesis-eng:roll-eng:segehjälpen-eng:survey-eng:hangman-eng:orbit-eng:blue-eng:home:web:phone>index:phone>donera:phone>försvarsutbildarna:phone>thesis:phone>roll:phone>segehjälpen:phone>survey:phone>hangman:phone>orbit:phone>blue:phone>3d:phone>web:phone>home:phone>donera-eng:phone>försvarsutbildarna-eng:phone>thesis-eng:phone>roll-eng:phone>segehjälpen-eng:phone>survey-eng:phone>hangman-eng:phone>orbit-eng:phone>blue-eng:phone>3d-kopia"/>
+    <file name="museredirect.js" crc="305212102" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="namnlöst-1.png" crc="3858826596" ref="index:home"/>
-    <file name="pil.png" crc="3978922964" ref="index:home"/>
-    <file name="u166-4.png" crc="4290242063" ref="index"/>
+    <file name="namnlöst-1.png" crc="3858826596" ref="index:home:phone>index"/>
+    <file name="pil.png" crc="3978922964" ref="home"/>
     <file name="donera.png" crc="374705516" ref="index:home"/>
-    <file name="försvarsutbildarna.png" crc="3872963065" ref="index:försvarsutbildarna-eng"/>
+    <file name="försvarsutbildarna.png" crc="3872963065" ref="index:home"/>
     <file name="funktionen.jpg" crc="112606995" ref="index:home"/>
     <file name="mobile2.jpg" crc="4013608290" ref="index:home"/>
     <file name="mockup_menu.png" crc="4256026840" ref="index:home"/>
-    <file name="rp9rjgkq5yvtd0afqki6n2zbxikkxs_u9zvxufqvejuoq3mw81vucb97wkrbqkaaaxketa=s2048230x198.jpg" crc="41649116" ref="index:home"/>
+    <file name="rp9rjgkq5yvtd0afqki6n2zbxikkxs_u9zvxufqvejuoq3mw81vucb97wkrbqkaaaxketa=s2048230x198.jpg" crc="41649116" ref="index"/>
     <file name="dfdfdfdf.jpg" crc="4238367383" ref="index:home"/>
     <file name="img_1142.jpg" crc="70332742" ref="index:home"/>
     <file name="rum_edit.jpg" crc="164587485" ref="index:home"/>
@@ -50,14 +100,14 @@
     <file name="rjgfpahgi9afegiarjgherajhgåaj0haj.png" crc="114655608" ref="donera:donera-eng"/>
     <file name="donerat.jpg" crc="4240859750" ref="donera:donera-eng"/>
     <file name="donera2.png" crc="3871586205" ref="donera:donera-eng"/>
-    <file name="försvarsutbildarna2.png" crc="3872963065" ref="försvarsutbildarna:home"/>
+    <file name="försvarsutbildarna2.png" crc="439336428" ref="försvarsutbildarna"/>
     <file name="asoifhioa.jpg" crc="4257417662" ref="thesis:thesis-eng"/>
     <file name="d29a3be9703af29c01a4d802db759c65.jpg" crc="409957954" ref="thesis:thesis-eng"/>
     <file name="tidsplan1.jpg" crc="311163781" ref="thesis-eng"/>
     <file name="tidsplan2.jpg" crc="136535831" ref="thesis-eng"/>
     <file name="mobile22.jpg" crc="379151754" ref="roll:roll-eng"/>
     <file name="kopia av rolll-crop-u16463.png" crc="3880978755" ref="roll:roll-eng"/>
-    <file name="mockup_menu-crop-u21778.png" crc="4194842198" ref="segehjälpen:segehjälpen-eng"/>
+    <file name="mockup_menu-crop-u21778.png" crc="4194842198" ref="segehjälpen-eng"/>
     <file name="hi-fi_startscreen.png" crc="3975649118" ref="segehjälpen:segehjälpen-eng"/>
     <file name="segehjälpppp-crop-u21572.jpg" crc="4041058402" ref="segehjälpen:segehjälpen-eng"/>
     <file name="segehjäpee.jpg" crc="4226813079" ref="segehjälpen:segehjälpen-eng"/>
@@ -69,33 +119,35 @@
     <file name="trsjnz.jpg" crc="461918319" ref="3d:3d-kopia"/>
     <file name="img_20170329_140733.jpg" crc="191384048" ref="thesis"/>
     <file name="img_20170329_140733-crop-u776.jpg" crc="139179835" ref="thesis-eng"/>
-    <file name="u940-4.png" crc="4290242063" ref="home"/>
+    <file name="u940-4.png" crc="405523620" ref="home"/>
     <file name="v10-crop-u969.jpg" crc="501025522" ref="home"/>
     <file name="namnlöst-2.jpg" crc="3901421047" ref="web"/>
     <file name="v10.jpg" crc="3768239053" ref="web"/>
     <file name="clockworkloans.png" crc="500034321" ref="web"/>
+    <file name="mockup_menu-crop-u21778291x311.png" crc="295167063" ref="segehjälpen"/>
+    <file name="försvarsutbildarna3.png" crc="3872963065" ref="försvarsutbildarna-eng"/>
   </folder>
-  <file name="index.html" crc="3859115816" mt="1508406060330" redirect="true"/>
-  <file name="donera.html" crc="4071660190" mt="1508336775564" redirect="true"/>
-  <file name="försvarsutbildarna.html" crc="4132234382" mt="1508336775565" redirect="true"/>
-  <file name="thesis.html" crc="3789501585" mt="1508336775565" redirect="true"/>
-  <file name="roll.html" crc="3870325203" mt="1508942227436" redirect="true"/>
-  <file name="segehjälpen.html" crc="3856682691" mt="1508336775566" redirect="true"/>
-  <file name="hangman.html" crc="462097753" mt="1510743737532" redirect="true"/>
-  <file name="3d.html" crc="246446319" mt="1508942524853" redirect="true"/>
-  <file name="3d-kopia.html" crc="3937464585" mt="1508336775572" redirect="true"/>
-  <file name="survey.html" crc="210573835" mt="1508942401331" redirect="true"/>
-  <file name="orbit.html" crc="236230145" mt="1510744170322" redirect="true"/>
-  <file name="blue.html" crc="41206595" mt="1510744234198" redirect="true"/>
-  <file name="donera-eng.html" crc="122427566" mt="1508336775569" redirect="true"/>
-  <file name="försvarsutbildarna-eng.html" crc="4126147117" mt="1510743488170" redirect="true"/>
-  <file name="thesis-eng.html" crc="3959131857" mt="1510743599025" redirect="true"/>
-  <file name="roll-eng.html" crc="4292653332" mt="1508336775570" redirect="true"/>
-  <file name="segehjälpen-eng.html" crc="156536953" mt="1508336775571" redirect="true"/>
-  <file name="survey-eng.html" crc="3941925476" mt="1508336775571" redirect="true"/>
-  <file name="hangman-eng.html" crc="3852416590" mt="1508336775571" redirect="true"/>
-  <file name="orbit-eng.html" crc="4077762413" mt="1508336775572" redirect="true"/>
-  <file name="blue-eng.html" crc="216656438" mt="1508336775572" redirect="true"/>
-  <file name="home.html" crc="80962426" mt="1510743317641" redirect="true"/>
-  <file name="web.html" crc="136075476" mt="1510744348531" redirect="true"/>
+  <file name="index.html" crc="150529366" mt="1558781441249" redirect="true"/>
+  <file name="donera.html" crc="3795694459" mt="1558780993217" redirect="true"/>
+  <file name="försvarsutbildarna.html" crc="4146150164" mt="1558780993261" redirect="true"/>
+  <file name="thesis.html" crc="4052126116" mt="1558780993303" redirect="true"/>
+  <file name="roll.html" crc="3817136839" mt="1558780993344" redirect="true"/>
+  <file name="segehjälpen.html" crc="152652457" mt="1558780993386" redirect="true"/>
+  <file name="hangman.html" crc="3882706799" mt="1558780993468" redirect="true"/>
+  <file name="3d.html" crc="427370206" mt="1558780993593" redirect="true"/>
+  <file name="3d-kopia.html" crc="3937464585" mt="1558780994095" redirect="true"/>
+  <file name="survey.html" crc="210573835" mt="1558780993426" redirect="true"/>
+  <file name="orbit.html" crc="320537955" mt="1558780993510" redirect="true"/>
+  <file name="blue.html" crc="4238641138" mt="1558780993551" redirect="true"/>
+  <file name="donera-eng.html" crc="122427566" mt="1558780993719" redirect="true"/>
+  <file name="försvarsutbildarna-eng.html" crc="387904234" mt="1558780993761" redirect="true"/>
+  <file name="thesis-eng.html" crc="245849247" mt="1558780993802" redirect="true"/>
+  <file name="roll-eng.html" crc="4292653332" mt="1558780993843" redirect="true"/>
+  <file name="segehjälpen-eng.html" crc="156536953" mt="1558780993885" redirect="true"/>
+  <file name="survey-eng.html" crc="3941925476" mt="1558780993926" redirect="true"/>
+  <file name="hangman-eng.html" crc="3852416590" mt="1558780993968" redirect="true"/>
+  <file name="orbit-eng.html" crc="4077762413" mt="1558780994011" redirect="true"/>
+  <file name="blue-eng.html" crc="216656438" mt="1558780994052" redirect="true"/>
+  <file name="home.html" crc="3953647576" mt="1558780993678" redirect="true"/>
+  <file name="web.html" crc="465960154" mt="1558780993636" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.home /* version checker */
 {
-	color: #0000ED;
-	background-color: #DE1EE0;
+	color: #0000F5;
+	background-color: #B41C5D;
 }
 
 .html
@@ -103,7 +103,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 41px;
-	left: 218px;
+	left: 220px;
 }
 
 #ppu948-5
@@ -400,8 +400,8 @@
 	width: 151px;
 	min-height: 29px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	margin-left: 36px;
 	margin-top: 23px;
 	position: relative;
@@ -494,8 +494,8 @@
 	width: 268px;
 	min-height: 47px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 36px;
+	font-size: 30px;
 	color: #4D4D4D;
 	margin-left: 288px;
 	margin-top: 129px;

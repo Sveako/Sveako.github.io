@@ -1,7 +1,7 @@
 .version._3d /* version checker */
 {
-	color: #0000F8;
-	background-color: #AC2B73;
+	color: #00001D;
+	background-color: #DF4FF3;
 }
 
 .html
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	width: 895px;
+	width: 894px;
 	min-height: 1283px;
 	background-image: none;
 	border-style: none;
@@ -20,7 +20,7 @@
 	background-color: #F2F2F2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 30px 39px 187px 26px;
+	padding: 30px 40px 187px 26px;
 }
 
 #u205-4
@@ -30,26 +30,13 @@
 	min-height: 23px;
 }
 
-#u621-4
-{
-	z-index: 12;
-	width: 676px;
-	min-height: 45px;
-	background-color: transparent;
-	font-size: 18px;
-	line-height: 22px;
-	margin-left: 116px;
-	margin-top: 140px;
-	position: relative;
-}
-
 #u603
 {
 	z-index: 6;
 	width: 881px;
 	background-color: transparent;
 	margin-left: 14px;
-	margin-top: 78px;
+	margin-top: 40px;
 	position: relative;
 }
 
@@ -58,13 +45,39 @@
 	padding-right: 1px;
 }
 
+#u621-7
+{
+	z-index: 12;
+	width: 676px;
+	min-height: 45px;
+	background-color: transparent;
+	line-height: 36px;
+	font-size: 30px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	margin-left: 13px;
+	margin-top: 28px;
+	position: relative;
+}
+
+#u621-4
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u621-3
+{
+	font-size: 12px;
+	line-height: 14px;
+}
+
 #u613
 {
 	z-index: 10;
 	width: 881px;
 	background-color: transparent;
-	margin-left: 14px;
-	margin-top: 29px;
+	margin-left: 13px;
+	margin-top: 46px;
 	position: relative;
 }
 
@@ -73,8 +86,8 @@
 	z-index: 8;
 	width: 881px;
 	background-color: transparent;
-	margin-left: 14px;
-	margin-top: 29px;
+	margin-left: 13px;
+	margin-top: 43px;
 	position: relative;
 }
 

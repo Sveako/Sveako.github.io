@@ -1,7 +1,7 @@
 .version.hangman /* version checker */
 {
-	color: #00000A;
-	background-color: #ECD55D;
+	color: #0000F2;
+	background-color: #42924B;
 }
 
 .html
@@ -13,14 +13,14 @@
 {
 	z-index: 1;
 	width: 837px;
-	min-height: 762px;
+	min-height: 591px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #F2F2F2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 30px 97px 708px 26px;
+	padding: 30px 97px 879px 26px;
 }
 
 #u205-4
@@ -28,38 +28,6 @@
 	z-index: 2;
 	width: 70px;
 	min-height: 23px;
-}
-
-#u565-7
-{
-	z-index: 7;
-	width: 766px;
-	min-height: 94px;
-	background-color: transparent;
-	color: #4D4D4D;
-	margin-left: 71px;
-	margin-top: 169px;
-	position: relative;
-}
-
-#u565-2
-{
-	font-size: 30px;
-	line-height: 36px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-}
-
-#u565-4
-{
-	font-size: 18px;
-	line-height: 22px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-}
-
-#u565-5
-{
-	font-size: 18px;
-	line-height: 22px;
 }
 
 #u563
@@ -71,8 +39,40 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 174px;
-	margin-top: 99px;
+	margin-top: 44px;
 	position: relative;
+}
+
+#u565-10
+{
+	z-index: 7;
+	width: 766px;
+	min-height: 94px;
+	background-color: transparent;
+	color: #4D4D4D;
+	margin-left: 71px;
+	margin-top: 31px;
+	position: relative;
+}
+
+#u565-2
+{
+	font-size: 30px;
+	line-height: 36px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u565-4,#u565-5,#u565-7
+{
+	font-size: 18px;
+	line-height: 22px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u565-8
+{
+	font-size: 18px;
+	line-height: 22px;
 }
 
 body
